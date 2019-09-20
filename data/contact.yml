@@ -1,22 +1,20 @@
 contactBoxes:
   enable : true
   contactBox:
-    - title : "Our Address"
+    - title : "Our Mailing Address"
       icon : "fa-map-marker"
       addressList:
-        - listItem : "92214-291, Avenida Emília Ferreira, 043 Vila Irene - MA"
+        - listItem : "1383 W 8th Ave, Vancouver, BC V6H 3V9"
         
     - title : "Phone Number"
       icon : "fa-phone"
       addressList:
-        - listItem : "(003) 104-6706-231"
-        - listItem : "(003) 104-6706-232"
+        - listItem : "1-647-560-2338 (CDEV)"
         
     - title : "Message Us"
       icon : "fa-envelope"
       addressList:
-        - listItem : "info@bexar.com"
-        - listItem : "info@example.com"
+        - listItem : "hello@canadadev.com"
 
 contactForm:
   enable : true
