@@ -1,6 +1,7 @@
 <!-- footer -->
 <footer>
   <!-- main footer -->
+  {{ if .Site.Params.footer.enable }}
   <div class="section bg-secondary">
     <div class="container">
       <div class="row justify-content-between">
@@ -71,6 +72,7 @@
       </div>
     </div>
   </div>
+  {{ end }}
   <!-- copyright -->
   <div class="bg-secondary-darken py-4">
     <div class="container">

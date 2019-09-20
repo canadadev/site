@@ -1,5 +1,5 @@
 {{ "<!-- team -->" | safeHTML }}
-  <section class="section pt-0 bg-gray-white">
+  <section class="section bg-white">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
@@ -11,7 +11,7 @@
         </div>
       </div>
       <div class="row">
-        {{ range first 3 ( where .Site.Pages "Type" "team" ) }}
+        {{ range first 1 ( where .Site.Pages "Type" "team" ) }}
         {{ "<!-- team member -->" | safeHTML }}
         <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
           <div class="team-member text-center">
@@ -21,7 +21,7 @@
                 <ul class="list-inline social-icon">
                   {{ range .Params.SocialIcon }}
                   <li class="list-inline-item">
-                    <a href="#" class="hover-ripple ripple-white"><i class="fa {{ .icon }}"></i></a>
+                    <a href="{{ .URL }}" class="hover-ripple ripple-white"><i class="fa {{ .icon }}"></i></a>
                   </li>
                   {{ end }}
                 </ul>

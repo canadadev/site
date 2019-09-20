@@ -17,5 +17,6 @@ contactBoxes:
         - listItem : "hello@canadadev.com"
 
 contactForm:
-  enable : true
+  enable : false
   formAction : "#" # Contact Form works with formspree.io
+  

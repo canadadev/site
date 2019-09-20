@@ -1,19 +1,19 @@
 {{ "<!-- header -->" | safeHTML }}
 <header>
-  {{ if .Site.Params.topHeader.enable }}
   {{ "<!-- top header -->" | safeHTML }}
   <div class="top-header bg-secondary pt-2 pb-1">
     <div class="container">
       <div class="row align-items-center">
         {{ "<!-- social icons -->" | safeHTML }}
         <div class="col-lg-6 col-md-6 text-center text-md-left">
-          <span class="text-white">Connect With Us:</span>
+          <span class="text-white">Social Networks:</span>
           <ul class="list-inline d-inline-block">
             {{ range .Site.Params.topHeader.icon }}
             <li class="list-inline-item"><a class="text-white d-inline-block p-2" href="{{ .URL }}"><i class="fa {{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
         </div>
+        {{ if .Site.Params.topHeader.enable }}
         {{ "<!-- mail and phone -->" | safeHTML }}
         <div class="col-lg-6 col-md-6 text-md-right text-center">
           <ul class="list-inline">
@@ -23,11 +23,11 @@
                 Us Now: <span class="text-primary">{{ with .Site.Params.topHeader.phone }}{{ . }}{{ end }}</span></a></li>
           </ul>
         </div>
+        {{ end }}
       </div>
     </div>
   </div>
   {{ "<!-- /top header -->" | safeHTML }}
-  {{ end }}
 
   {{ "<!-- navigation -->" | safeHTML }}
   <div class="navigation bg-white position-relative">

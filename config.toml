@@ -96,10 +96,10 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   phone = ""
     # social icon
     [[params.topHeader.icon]]
-      icon = "fa-google"
+      icon = "fa-meetup"
       URL = "#"
     [[params.topHeader.icon]]
-      icon = "fa-vimeo"
+      icon = "fa-linkedin"
       URL = "#"
 
   # search
@@ -115,14 +115,15 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # call to action
   [params.cta]
   enable = false
-  title = "Bexar give the smart solution for your business"
+  title = "Sign up today!"
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
-  btnText = "get an quote"
-  URL = "/contact"
+  btnText = "Sign Up"
+  URL = "/service"
 
   # Footer
   [params.footer]
+  enable = false
   content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. <br> Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
 
     # follow us on social site
@@ -152,7 +153,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
   # newsletter
   [params.newsletter]
-  enable = true
+  enable = false
   title = "Subscribe Newsletter"
 
   # copyright

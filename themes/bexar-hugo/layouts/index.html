@@ -127,6 +127,7 @@
   {{ partial "team.html" . }}
   {{ end }}
 
+  {{ if .Site.Data.homepage.project.enable }}
   {{ "<!-- case study -->" | safeHTML }}
   <section class="section pt-0">
     <div class="pb-4 bg-gray-white">
@@ -170,6 +171,7 @@
     </div>
   </section>
   {{ "<!-- /case study -->" | safeHTML }}
+  {{ end }}
 
   {{ if .Site.Data.homepage.testimonial.enable }}
   {{ partial "testimonial.html" . }}
