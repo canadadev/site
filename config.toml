@@ -51,11 +51,16 @@ paginate = 6
 
 # navigation
 [menu]
+
+  [[menu.main]]
+  name = "Jobs"
+  URL = "/jobs"
+  weight = 2
     
   [[menu.main]]
-  name = "Assocation"
+  name = "Vision"
   URL = "/about"
-  weight = 2
+  weight = 3
   
   [[menu.main]]
   name = "Blog"
@@ -72,8 +77,8 @@ logo = "images/canadadev.png"
 logoAlt = "images/canadadev-alt.png"
 home = "Home"
 # Meta data
-description = "Bexar hugo template meta description."
-author = "Themefisher"
+description = "CanadaDev Software Association of Canada"
+author = "Bevan Hunt"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 mapLatitude = "51.5223477"
@@ -97,10 +102,13 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     # social icon
     [[params.topHeader.icon]]
       icon = "fa-meetup"
-      URL = "#"
+      URL = "https://www.meetup.com/pro/canadadev"
     [[params.topHeader.icon]]
       icon = "fa-linkedin"
-      URL = "#"
+      URL = "https://www.linkedin.com/groups/77243/"
+    [[params.topHeader.icon]]
+      icon = "fa-vimeo"
+      URL = "https://vimeo.com/showcase/6303866"
 
   # search
   [params.search]

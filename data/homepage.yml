@@ -15,20 +15,20 @@ about:
 funfacts :
   enable : ture
   funfactsItem :
-    - title : "Meetup Members"
-      count : "8200"
+    - title : "Members"
+      count : "8000"
       icon : "fa-user"
 
     - title : "Canadian Chapters"
-      count : "14"
+      count : "10"
       icon : "fa-building"
       
     - title : "Years"
-      count : "13"
+      count : "10"
       icon : "fa-calendar"
       
-    - title : "CEO's Years of Experience"
-      count : "20"
+    - title : "Events Hosted"
+      count : "1000"
       icon : "fa-bullhorn"
 
 # feature

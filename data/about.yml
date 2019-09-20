@@ -26,7 +26,7 @@ about:
   enable : true
 
 service:
-  enable : true
+  enable : false
 
 team: 
   enable : true
