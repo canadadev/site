@@ -19,7 +19,7 @@ funfacts :
       count : "8000"
       icon : "fa-user"
 
-    - title : "Canadian Chapters"
+    - title : "Chapters"
       count : "10"
       icon : "fa-building"
       
@@ -27,7 +27,7 @@ funfacts :
       count : "10"
       icon : "fa-calendar"
       
-    - title : "Events Hosted"
+    - title : "Events"
       count : "1000"
       icon : "fa-bullhorn"
 
@@ -59,6 +59,11 @@ team:
   enable : true
   titleSM : ""
   title : "Leadership"
+
+founders:
+  enable : true
+  titleSM : ""
+  title : "Founders"
 
 # project
 project:
