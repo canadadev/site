@@ -62,19 +62,14 @@ paginate = 6
   URL = "/blog"
   weight = 4
   
-  [[menu.main]]
-  name = "Contact"
-  URL = "/contact"
-  weight = 5
-  
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy-policy"
   weight = 2
 
 [params]
-logo = "images/logo.png"
-logoAlt = "images/logo-alt.png"
+logo = "images/canadadev.png"
+logoAlt = "images/canadadev-alt.png"
 home = "Home"
 # Meta data
 description = "Bexar hugo template meta description."
@@ -135,15 +130,11 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     title = "Follow Us On"
 
       [[params.footer.followUs.socialIcon]]
-      icon = "fa-twitter"
+      icon = "fa-meetup"
       URL = "#"
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-linkedin"
-      URL = "#"
-
-      [[params.footer.followUs.socialIcon]]
-      icon = "fa-vimeo"
       URL = "#"
 
     # Contact
