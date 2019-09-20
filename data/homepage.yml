@@ -1,41 +1,41 @@
 # about
 about:
   enable : true
-  titleSM : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
+  titleSM : ""
+  title : "Your community as a software engineer"
   content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
   bgDots : "images/backgrounds/about-us-bg.png"
   image : "images/about/about-us.webp"
   imageAlt : "images/about/about-us.png"
   button:
-    btnText : "more service"
+    btnText : "Sign Up"
     URL : "/service"
 
 # funfacts
 funfacts :
   enable : ture
   funfactsItem :
-    - title : "project done"
-      count : "50"
-      icon : "fa-bullseye"
+    - title : "Meetup Members"
+      count : "8200"
+      icon : "fa-user"
+
+    - title : "Canadian Chapters"
+      count : "14"
+      icon : "fa-building"
       
-    - title : "Years Experience"
-      count : "25"
+    - title : "Years Existing"
+      count : "13"
       icon : "fa-calendar"
       
-    - title : "Awards Win"
-      count : "250"
-      icon : "fa-trophy"
-      
-    - title : "Happy Coustomers"
-      count : "500"
-      icon : "fa-smile-o"
+    - title : "CEO's Years of Experience"
+      count : "20"
+      icon : "fa-bullhorn"
 
 # feature
 feature:
-  enable : ture
+  enable : false
   titleSM : "Why Choose Us"
-  title : "Why They Choose Bexar"
+  title : "Why join CanadaDev"
   image : "images/feature/feature.webp"
   imageAlt : "images/feature/feature.jpg"
   description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
@@ -50,19 +50,19 @@ feature:
 
 # service
 service:
-  enable : true
+  enable : false
   titleSM : "Best Service"
   title : "Service We Provide"
 
 # team
 team:
   enable : true
-  titleSM : "Our Team"
-  title : "We Are Dynamic Team and <br> Business Agency"
+  titleSM : ""
+  title : "Team"
 
 # project
 project:
-  enable : true
+  enable : false
   titleSM : "Case Study"
   title : "Bexar Case Studies"
   button:
@@ -72,7 +72,7 @@ project:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
 
 # blog
 blog:

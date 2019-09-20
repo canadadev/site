@@ -114,7 +114,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
   # call to action
   [params.cta]
-  enable = true
+  enable = false
   title = "Bexar give the smart solution for your business"
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
