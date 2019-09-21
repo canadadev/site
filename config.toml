@@ -66,16 +66,21 @@ paginate = 6
   name = "About"
   URL = "/about"
   weight = 3
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "/blog"
+  weight = 4
   
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 6
+  weight = 5
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy-policy"
-  weight = 7
+  weight = 6
 
 [params]
 logo = "images/canadadev.png"
