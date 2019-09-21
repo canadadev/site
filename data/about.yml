@@ -3,24 +3,30 @@ philosophy:
   philosophyItem:
     - title : "Our Mission"
       serialNumber: "01"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "Be the professional association of software engineers."
       list:
-        - listItem : "Quality Services"
-        - listItem : "Clients Satisfaction"
+        - listItem : "Build a strong community"
+        - listItem : "Advocate for members"
+        - listItem : "Provide mentorship"
+        - listItem : "Provide benefits"
         
     - title : "Our Approach"
       serialNumber: "02"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "Lead the software engineering community."
       list:
-        - listItem : "Quality Services"
-        - listItem : "Clients Satisfaction"
+        - listItem : "Lobby governments"
+        - listItem : "Sign discount deals with suppliers"
+        - listItem : "Create a mentorship network"
+        - listItem : "Host Meetup events across the nation"
+        - listItem : "Create leading edge content"
         
     - title : "Our Philosophy"
       serialNumber: "03"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "Be active, diverse, and ethical."
       list:
-        - listItem : "Quality Services"
-        - listItem : "Clients Satisfaction"
+        - listItem : "Active and engaged membership"
+        - listItem : "Increase the diveristy in the industry"
+        - listItem : "Enforced Code of Ethics"
 
 about:
   enable : true
