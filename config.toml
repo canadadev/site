@@ -53,6 +53,11 @@ paginate = 6
 [menu]
 
   [[menu.main]]
+  name = "Founders"
+  URL = "/founders"
+  weight = 1
+
+  [[menu.main]]
   name = "Jobs"
   URL = "/jobs"
   weight = 2
@@ -61,11 +66,6 @@ paginate = 6
   name = "Vision"
   URL = "/about"
   weight = 3
-
-  [[menu.main]]
-  name = "Founders"
-  URL = "/founders"
-  weight = 4
   
   [[menu.main]]
   name = "Blog"
@@ -75,12 +75,12 @@ paginate = 6
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 2
+  weight = 6
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy-policy"
-  weight = 2
+  weight = 7
 
 [params]
 logo = "images/canadadev.png"
