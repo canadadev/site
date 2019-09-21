@@ -14,12 +14,13 @@ philosophy:
       serialNumber: "02"
       content : "Lead the software engineering community."
       list:
-        - listItem : "Run a federally incorporated company"
+        - listItem : "Run a federal company based in Vancouver, BC"
         - listItem : "Lobby governments"
         - listItem : "Sign discount deals with suppliers"
         - listItem : "Create a mentorship network"
         - listItem : "Host Meetup events"
         - listItem : "Create leading edge content"
+        - listItem : "Be a member of the Vancouver Board of Trade"
         
     - title : "Our Philosophy"
       serialNumber: "03"
