@@ -79,7 +79,7 @@ paginate = 6
   
   [[menu.footer]]
   name = "Privacy Policy"
-  URL = "/privacy-policy"
+  URL = "/privacy"
   weight = 6
 
 [params]
