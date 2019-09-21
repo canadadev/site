@@ -24,9 +24,9 @@ philosophy:
       serialNumber: "03"
       content : "Be active, diverse, and ethical."
       list:
-        - listItem : "Active and engaged membership"
+        - listItem : "Have an active and engaged membership"
         - listItem : "Increase the diveristy in the industry"
-        - listItem : "Enforced Code of Ethics"
+        - listItem : "Enforce a Code of Ethics"
 
 about:
   enable : true
