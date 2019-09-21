@@ -14,6 +14,7 @@ philosophy:
       serialNumber: "02"
       content : "Lead the software engineering community."
       list:
+        - listItem : "Run a federally incorporated company"
         - listItem : "Lobby governments"
         - listItem : "Sign discount deals with suppliers"
         - listItem : "Create a mentorship network"
