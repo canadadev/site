@@ -67,11 +67,6 @@ paginate = 6
   URL = "/about"
   weight = 3
   
-  [[menu.main]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 5
-
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"

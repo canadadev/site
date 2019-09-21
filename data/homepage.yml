@@ -82,5 +82,5 @@ testimonial:
 # blog
 blog:
   enable : false
-  titleSM : "Content"
-  title : "Latest Items"
+  titleSM : "Featured"
+  title : "Jobs"
