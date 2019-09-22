@@ -133,7 +133,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   [params.navBtn]
   enable = true
   btnText = "sign up"
-  URL = "/service"
+  URL = "https://www.patreon.com/canadadev"
 
   # call to action
   [params.cta]
@@ -142,7 +142,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Sign Up"
-  URL = "/service"
+  URL = "https://www.patreon.com/canadadev"
 
   # Footer
   [params.footer]

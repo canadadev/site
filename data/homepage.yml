@@ -9,7 +9,7 @@ about:
   imageAlt : "images/about/about-us.png"
   button:
     btnText : "Sign Up"
-    URL : "/service"
+    URL : "https://www.patreon.com/canadadev"
 
 # funfacts
 funfacts :
