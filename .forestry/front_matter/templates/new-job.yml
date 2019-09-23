@@ -1,0 +1,40 @@
+---
+label: New Job
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: bgImage
+  label: bgImage
+- type: file
+  name: bgImageAlt
+  label: bgImageAlt
+- type: text
+  name: image
+  label: image
+- type: file
+  name: imageAlt
+  label: imageAlt
+- type: text
+  name: author
+  label: author
+- type: text
+  name: postType
+  label: postType
+- type: text
+  name: type
+  label: type
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
