@@ -1,7 +1,7 @@
 ---
 title: "Advocacy"
 date: 2019-09-22T10:47:55+06:00
-description: "this is meta description for service page."
+description: "Strong advocacy across the nation"
 bgImage: "images/backgrounds/page-title.webp"
 bgImageAlt: "images/backgrounds/page-title.jpg"
 image: "images/service/service-3.webp"
