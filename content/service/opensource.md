@@ -20,4 +20,4 @@ Helps open source authors to monetize their open-source code!
 
 ## How to
 
-- Authors have to contact CanadaDev directly and are evaluated by a case-by-case basis.
+- Members (authors) have to contact CanadaDev directly and are evaluated by a case-by-case basis.
