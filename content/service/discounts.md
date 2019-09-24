@@ -16,7 +16,7 @@ Provides discounts with suppliers across the nation and world!
 ### Benefits of Discounts
 
 1. Save money
-2. Do business with trusted and vetted suppliers
+2. Do business with trusted suppliers
 
 ## CanadaDev Suppliers
 
