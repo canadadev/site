@@ -54,6 +54,6 @@ feature :
       icon : "fa-lightbulb-o"
       description : "Teach and learn"
       
-    - title : "Benefits"
+    - title : "Discounts"
       icon : "fa-usd"
-      description : "Discounts"
+      description : "Save money"
