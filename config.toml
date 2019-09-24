@@ -117,13 +117,13 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     # social icon
     [[params.topHeader.icon]]
       icon = "fa-meetup"
-      URL = "https://www.meetup.com/pro/canadadev"
+      URL = "https://canadadev.com/meetup"
     [[params.topHeader.icon]]
       icon = "fa-linkedin"
-      URL = "https://www.linkedin.com/groups/77243/"
+      URL = "https://canadadev.com/linkedin"
     [[params.topHeader.icon]]
       icon = "fa-vimeo"
-      URL = "https://vimeo.com/showcase/6303866"
+      URL = "https://canadadev.com/vimeo"
 
   # search
   [params.search]
