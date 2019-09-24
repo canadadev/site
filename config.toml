@@ -146,8 +146,8 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
   # Footer
   [params.footer]
-  enable = false
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. <br> Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
+  enable = true
+  content = "CanadaDev is the profesional association of software engineers in Canada. CanadaDev provides advocacy, lobbying, mentorship, community, meetups, leading edge content, help to monetize open source, and benefits. We take our members to the next level!"
 
     # follow us on social site
     [params.footer.followUs]
@@ -155,11 +155,15 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-meetup"
-      URL = "#"
+      URL = "https://canadadev.com/meetup"
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-linkedin"
-      URL = "#"
+      URL = "https://canadadev.com/linkedin"
+
+      [[params.footer.followUs.socialIcon]]
+      icon = "fa-vimeo"
+      URL = "https://canadadev.com/vimeo"
 
     # Contact
     [params.footer.contact]
