@@ -8,9 +8,10 @@ image: "images/service/service-1.webp"
 imageAlt: "images/service/service-1.jpg"
 icon: "fa-lightbulb-o"
 type: "service"
+row: "1"
 ---
 
-Providing a mentorship network in each chapter location across the nation.
+Providing a mentorship network in each chapter location across the nation!
 
 ### Benefits of Mentorship
 

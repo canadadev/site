@@ -8,9 +8,10 @@ image: "images/service/service-3.webp"
 imageAlt: "images/service/service-3.jpg"
 icon: "fa-bullhorn"
 type: "service"
+row: "1"
 ---
 
-Lobbying governments to improve laws both federally and provincally.
+Lobbying governments to improve laws both federally and provincally!
 
 ### Benefits of Advocacy
 

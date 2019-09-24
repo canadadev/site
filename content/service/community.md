@@ -8,6 +8,7 @@ image: "images/service/service-2.webp"
 imageAlt: "images/service/service-2.jpg"
 icon: "fa-home"
 type: "service"
+row: "1"
 ---
 
 Join and attend local chapters across the nation! Teach, learn, lead, and have fun!
