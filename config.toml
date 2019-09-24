@@ -53,39 +53,44 @@ paginate = 6
 [menu]
 
   [[menu.main]]
+  name = "Benefits"
+  URL = "/service"
+  weight = 1
+
+  [[menu.main]]
   name = "Founders"
   URL = "/founders"
-  weight = 1
+  weight = 2
 
   [[menu.main]]
   name = "Jobs"
   URL = "/jobs"
-  weight = 2
+  weight = 3
     
   [[menu.main]]
   name = "Chapters"
-  URL = "https://www.meetup.com/pro/canadadev"
-  weight = 3
+  URL = "https://canadadev.com/meetup"
+  weight = 4
 
   [[menu.main]]
   name = "About"
   URL = "/about"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
   name = "Blog"
   URL = "/blog"
-  weight = 5
+  weight = 6
   
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 6
+  weight = 7
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy"
-  weight = 7
+  weight = 8
 
 [params]
 logo = "images/canadadev.png"
@@ -133,7 +138,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   [params.navBtn]
   enable = true
   btnText = "sign up"
-  URL = "https://www.patreon.com/canadadev"
+  URL = "https://canadadev.com/join"
 
   # call to action
   [params.cta]
@@ -142,7 +147,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Sign Up"
-  URL = "https://www.patreon.com/canadadev"
+  URL = "https://canadadev.com/join"
 
   # Footer
   [params.footer]

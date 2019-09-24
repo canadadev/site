@@ -9,11 +9,11 @@ about:
   imageAlt : "images/about/about-us.png"
   button:
     btnText : "Sign Up"
-    URL : "https://www.patreon.com/canadadev"
+    URL : "https://canadadev.com/join"
 
 # funfacts
 funfacts :
-  enable : ture
+  enable : true
   funfactsItem :
     - title : "Members"
       count : "8000"
@@ -50,9 +50,9 @@ feature:
 
 # service
 service:
-  enable : false
-  titleSM : "Best Service"
-  title : "Service We Provide"
+  enable : true
+  titleSM : ""
+  title : "Benefits"
 
 # team
 team:
