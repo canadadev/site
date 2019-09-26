@@ -84,7 +84,7 @@ paginate = 6
 
   [[menu.main]]
   name = "Blog"
-  URL = "/blog"
+  URL = "https://canadadev.com/join"
   weight = 7
   
   [[menu.footer]]
