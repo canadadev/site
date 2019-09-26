@@ -58,39 +58,44 @@ paginate = 6
   weight = 1
 
   [[menu.main]]
+  name = "Ethics"
+  URL = "/ethics"
+  weight = 2
+
+  [[menu.main]]
   name = "Founders"
   URL = "/founders"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   name = "Jobs"
   URL = "/jobs"
-  weight = 3
+  weight = 4
     
   [[menu.main]]
   name = "Chapters"
   URL = "https://canadadev.com/meetup"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
   name = "About"
   URL = "/about"
-  weight = 5
+  weight = 6
 
   [[menu.main]]
   name = "Blog"
   URL = "/blog"
-  weight = 6
+  weight = 7
   
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 7
+  weight = 8
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy"
-  weight = 8
+  weight = 9
 
 [params]
 logo = "images/canadadev.png"
