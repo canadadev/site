@@ -97,6 +97,11 @@ paginate = 6
   URL = "/privacy"
   weight = 9
 
+  [[menu.footer]]
+  name = "Code of Conduct"
+  URL = "/conduct"
+  weight = 10
+
 [params]
 logo = "images/canadadev.png"
 logoAlt = "images/canadadev-alt.png"
