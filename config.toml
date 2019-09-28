@@ -162,7 +162,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # Footer
   [params.footer]
   enable = true
-  content = "CanadaDev Software Engineers Ltd. is the profesional association of software engineers in Canada. CanadaDev provides advocacy, lobbying, mentorship, community, meetups, leading edge content, help to monetize open source, and benefits. We take our members to the next level!"
+  content = "CanadaDev Software Engineers Ltd. is the profesional association of software engineers in Canada. CanadaDev provides advocacy, lobbying, mentorship, community, meetups, leading edge content, help to monetize open source, and discounts. We take our members to the next level!"
 
     # follow us on social site
     [params.footer.followUs]
