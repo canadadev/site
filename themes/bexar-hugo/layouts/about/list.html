@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-  {{ partial "page-title.html" . }}
-
   {{ if .Site.Data.about.philosophy.enable }}
   {{ "<!-- philosophy -->" | safeHTML }}
   <section class="section bg-gray position-relative">
