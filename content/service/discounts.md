@@ -21,4 +21,4 @@ Provides discounts with suppliers across the nation and world!
 ## CanadaDev Suppliers
 
 - [Benchmark Law](https://www.benchmarklaw.ca/) - all services at discount of 10%
-- [Contact us](hello@canadadev.com) to be added as a supplier
+- [Contact us](mailto:hello@canadadev.com?subject=%20Add me as supplier%20) to be added as a supplier
