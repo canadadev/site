@@ -107,7 +107,7 @@ logo = "images/canadadev.png"
 logoAlt = "images/canadadev-alt.png"
 home = "Home"
 # Meta data
-description = "CanadaDev Software Association of Canada"
+description = "CanadaDev is the professional association of software engineers in Canada"
 author = "Bevan Hunt"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -147,22 +147,22 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # Navigation get start button
   [params.navBtn]
   enable = true
-  btnText = "sign up"
+  btnText = "Join Now"
   URL = "https://canadadev.com/join"
 
   # call to action
   [params.cta]
   enable = false
-  title = "Sign up today!"
+  title = "Join today!"
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
-  btnText = "Sign Up"
+  btnText = "Join Now"
   URL = "https://canadadev.com/join"
 
   # Footer
   [params.footer]
-  enable = true
-  content = "CanadaDev Software Engineers Ltd. is the profesional association of software engineers in Canada. CanadaDev provides advocacy, lobbying, mentorship, community, meetups, leading edge content, help to monetize open source, and discounts. We take our members to the next level!"
+  enable = false
+  content = "CanadaDev is the profesional association of software engineers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, help to monetize open source, and discounts. We take our members to the next level!"
 
     # follow us on social site
     [params.footer.followUs]

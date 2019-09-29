@@ -1,5 +1,5 @@
 slider:
-  enable : true
+  enable : false
 sliderItem: 
   - preTitle : "Being a software engineer"
     title : "Is a challenge"
@@ -39,7 +39,7 @@ sliderItem:
 
 # banner feature
 feature :
-  enable : true
+  enable : false
   # Max use 4 item
   featureItem :
     - title : "Community"
