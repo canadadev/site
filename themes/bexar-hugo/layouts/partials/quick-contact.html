@@ -1,7 +1,6 @@
 {{ if .Site.Params.quickContact.enable }}
 {{ "<!-- quick contact -->" | safeHTML }}
 <div class="bg-white px-4 py-5 box-shadow mb-5">
-  <h4 class="mb-4">Join Today</h4>
   <a href="{{ with .Site.Params.navBtn.URL }}{{ . | absURL }}{{ end }}" class="btn btn-primary hover-ripple">{{ with .Site.Params.navBtn.btnText }}{{ . }}{{ end }}</a>
 </div>
 {{ end }}
