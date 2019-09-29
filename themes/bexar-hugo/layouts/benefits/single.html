@@ -9,7 +9,7 @@
         <div class="bg-white px-4 py-5 box-shadow mb-5">
           <h4 class="mb-4">Benefits</h4>
           <ul class="list-styled style-circle">
-            {{ range (where .Site.Pages "Type" "service") }}
+            {{ range (where .Site.Pages "Type" "benefits") }}
             <li class="border-bottom border-color"><a href="{{ .Permalink }}" class="text-color d-block pb-3 mt-3 text-decoration-none">{{ .Title }}</a></li>
             {{ end }}
           </ul>

@@ -7,7 +7,7 @@ bgImageAlt: "images/backgrounds/page-title.jpg"
 image: "images/service/service-3.webp"
 imageAlt: "images/service/service-3.jpg"
 icon: "fa-bullhorn"
-type: "service"
+type: "benefits"
 row: "1"
 ---
 

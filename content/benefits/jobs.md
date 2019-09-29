@@ -7,7 +7,7 @@ bgImageAlt: "images/backgrounds/page-title.jpg"
 image: "images/service/service-6.webp"
 imageAlt: "images/service/service-6.jpg"
 icon: "fa-briefcase"
-type: "service"
+type: "benefits"
 row: "2"
 ---
 
