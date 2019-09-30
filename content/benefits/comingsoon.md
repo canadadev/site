@@ -1,5 +1,5 @@
 ---
-title: "Open Source Monetization"
+title: "More Coming Soon"
 date: 2019-09-20T10:47:55+06:00
 description: "Great jobs across the nation"
 bgImage: "images/backgrounds/page-title.webp"
@@ -11,13 +11,6 @@ type: "benefits"
 row: "2"
 ---
 
-Helps open source authors to monetize their open-source code!
+Become a member to be informed when they launch
 
-### Monetization Benefits
-
-1. Make money
-2. Help make the community sustainable
-
-## How to
-
-- Members (authors) have to contact CanadaDev directly and are evaluated by a case-by-case basis.
+### More Coming Soon...

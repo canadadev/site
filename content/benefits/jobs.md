@@ -11,7 +11,7 @@ type: "benefits"
 row: "2"
 ---
 
-Provides employment opportunities across the nation from a trusted provider!
+Provides employment opportunities across the nation from a trusted provider
 
 ### Job Benefits
 

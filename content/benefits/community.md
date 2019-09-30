@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Join and attend local chapters across the nation! Teach, learn, lead, and have fun!
+CanadaDev is built on local meetups and they are your learning platform
 
 ### Benefits of Meetups
 

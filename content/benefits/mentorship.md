@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Providing a mentorship network in each chapter location across the nation!
+Matches mentors and mentees in all local chapter locations
 
 ### Benefits of Mentorship
 
@@ -20,4 +20,6 @@ Providing a mentorship network in each chapter location across the nation!
 3. Empower
 4. Get to the next level!
 
-This network is in the process of being built as a software platform - currently local mentors and mentees will be matched.
+To sign up as a local mentor - click here - you must be a paying member to be matched
+
+To sign up as a local mentee - click here - you must be a paying member to be matched

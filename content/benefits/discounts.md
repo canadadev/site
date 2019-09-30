@@ -11,7 +11,7 @@ type: "benefits"
 row: "2"
 ---
 
-Provides discounts with suppliers across the nation and world!
+Provides discounts with leading suppliers that assist software engineers
 
 ### Benefits of Discounts
 

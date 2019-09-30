@@ -119,11 +119,11 @@
   {{ "<!-- /feature -->" | safeHTML }}
   {{ end }}
 
-  {{ if .Site.Data.homepage.service.enable }}
-  {{ partial "service.html" . }}
+  {{ if .Site.Data.homepage.benefits.enable }}
+  {{ partial "benefits.html" . }}
   {{ end }}
 
-  {{ if .Site.Data.homepage.team.enable }}
+  {{ if .Site.Data.homepage.founders.enable }}
   {{ partial "team.html" . }}
   {{ end }}
 

@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Lobbying governments to improve laws both federally and provincally!
+Lobbying governments to improve laws both federally and provincally
 
 ### Benefits of Advocacy
 
@@ -19,6 +19,6 @@ Lobbying governments to improve laws both federally and provincally!
 2. Better working conditions
 3. Better labour relations
 
-## CanadaDev Lobbying List
+## CanadaDev Advocacy Ideas
 
-- BC: [ESA High Tech Exclusion](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/forms-resources/igm/esr-part-7-section-37-8) (Action: Remove)
+- BC: [ESA High Tech Exclusion](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/forms-resources/igm/esr-part-7-section-37-8)
