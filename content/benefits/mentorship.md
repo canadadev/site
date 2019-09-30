@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Matches mentors and mentees in all local chapter locations
+Matches mentors and mentees for best fit across the nation
 
 ### Benefits of Mentorship
 
@@ -20,4 +20,4 @@ Matches mentors and mentees in all local chapter locations
 3. Empower
 4. Get to the next level!
 
-Become a member to be matched locally in your chapter.
+Become a member to be matched.
