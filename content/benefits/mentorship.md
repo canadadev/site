@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Matches mentors and mentees in all chapter locations
+Matches mentors and mentees in all local chapter locations
 
 ### Benefits of Mentorship
 
