@@ -9,7 +9,7 @@ about:
   imageAlt : "images/about/about-us.png"
   button:
     btnText : "Join Now"
-    URL : "https://canadadev.com/join"
+    URL : "/join"
 
 # funfacts
 funfacts :

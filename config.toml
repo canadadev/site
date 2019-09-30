@@ -63,44 +63,39 @@ paginate = 6
   weight = 2
 
   [[menu.main]]
-  name = "Founders"
-  URL = "/founders"
-  weight = 3
-
-  [[menu.main]]
   name = "Jobs"
   URL = "/jobs"
-  weight = 4
+  weight = 3
     
   [[menu.main]]
   name = "Chapters"
-  URL = "https://canadadev.com/meetup"
-  weight = 5
+  URL = "/meetup"
+  weight = 4
 
   [[menu.main]]
   name = "About"
   URL = "/about"
-  weight = 6
+  weight = 5
 
   [[menu.main]]
-  name = "Blog"
-  URL = "https://canadadev.com/join"
-  weight = 7
+  name = "Sponsor"
+  URL = "/sponsor"
+  weight = 6
   
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 8
+  weight = 7
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy"
-  weight = 9
+  weight = 8
 
   [[menu.footer]]
   name = "Code of Conduct"
   URL = "/conduct"
-  weight = 10
+  weight = 9
 
 [params]
 logo = "images/canadadev.png"
@@ -132,13 +127,13 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     # social icon
     [[params.topHeader.icon]]
       icon = "fa-meetup"
-      URL = "https://canadadev.com/meetup"
+      URL = "/meetup"
     [[params.topHeader.icon]]
       icon = "fa-linkedin"
-      URL = "https://canadadev.com/linkedin"
+      URL = "/linkedin"
     [[params.topHeader.icon]]
       icon = "fa-vimeo"
-      URL = "https://canadadev.com/vimeo"
+      URL = "/vimeo"
 
   # search
   [params.search]
@@ -148,7 +143,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   [params.navBtn]
   enable = true
   btnText = "Join Now"
-  URL = "https://canadadev.com/join"
+  URL = "/join"
 
   # call to action
   [params.cta]
@@ -157,7 +152,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Join Now"
-  URL = "https://canadadev.com/join"
+  URL = "/join"
 
   # Footer
   [params.footer]
@@ -170,15 +165,15 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-meetup"
-      URL = "https://canadadev.com/meetup"
+      URL = "/meetup"
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-linkedin"
-      URL = "https://canadadev.com/linkedin"
+      URL = "/linkedin"
 
       [[params.footer.followUs.socialIcon]]
       icon = "fa-vimeo"
-      URL = "https://canadadev.com/vimeo"
+      URL = "/vimeo"
 
     # Contact
     [params.footer.contact]
