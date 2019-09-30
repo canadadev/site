@@ -23,7 +23,7 @@ CanadaDev is built on local meetups and they are your learning platform
 
 ### Community Networks
 
-* Join [CanadaDev's Meetup Network](https://canadadev.com/meetup)
+* Join [CanadaDev's Meetup Network](https://canadadev.com/meetup) - 14 chapters across the nation!
 
 * Join [CanadaDev's Linkedin Group](https://canadadev.com/linkedin)
 
