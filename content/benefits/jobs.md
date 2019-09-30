@@ -15,9 +15,10 @@ Provides employment opportunities across the nation from a trusted provider
 
 ### Job Benefits
 
-1. Make money
-2. Work with a [trusted provider](https://www.annexgroup.com/)
+1. Work with CanadaDev's [trusted provider](https://www.annexgroup.com/)
+2. Work as an employee or as a contractor
+3. Contractors get [special discounts](https://www.annexgroup.com/job-seekers/contractor-benefits/) 
 
-### Job Listings
+### Jobs
 
-- [Check them out](https://canadadev.com/jobs)
+- [Show me the jobs](https://canadadev.com/jobs)

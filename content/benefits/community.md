@@ -13,13 +13,19 @@ row: "1"
 
 CanadaDev is built on local meetups and they are your learning platform
 
-### Benefits of Meetups
+### Benefits of Community
 
-1. Community
-2. Networking
-3. Learning
-4. Teaching
-5. Leadership
-6. Fun!
+* Networking
+* Learning
+* Teaching
+* Leadership
+* Fun!
 
-[CanadaDev Meetup Network](https://canadadev.com/meetup)
+### Community Networks
+
+* Join [CanadaDev's Meetup Network](https://canadadev.com/meetup)
+
+* Join [CanadaDev's Linkedin Group](https://canadadev.com/linkedin)
+
+* Watch [CanadaDev's Recorded Meetups](https://canadadev.com/vimeo)
+

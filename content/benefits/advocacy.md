@@ -19,6 +19,8 @@ Lobbying governments to improve laws both federally and provincally
 2. Better working conditions
 3. Better labour relations
 
-## CanadaDev Advocacy Ideas
+## CanadaDev Advocacy Issues
 
 - BC: [ESA High Tech Exclusion](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/forms-resources/igm/esr-part-7-section-37-8)
+
+Become a member to voice your concerns and to raise new issues.

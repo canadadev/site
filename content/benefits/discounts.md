@@ -22,3 +22,5 @@ Provides discounts with leading suppliers that assist software engineers
 
 - [Benchmark Law](https://www.benchmarklaw.ca/) - all services at discount of 10%
 - [Contact us](mailto:hello@canadadev.com?subject=%20Add me as supplier%20) to be added as a supplier
+
+Become a member to start saving now.
