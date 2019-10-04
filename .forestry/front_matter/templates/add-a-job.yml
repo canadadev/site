@@ -72,3 +72,5 @@ fields:
   label: type
   hidden: true
   default: job
+pages:
+- content/career/test.md
