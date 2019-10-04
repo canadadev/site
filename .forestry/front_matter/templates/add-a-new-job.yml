@@ -2,30 +2,43 @@
 label: Add a New Job
 hide_body: false
 fields:
-- type: file
-  name: bgimage
-  label: bgimage
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
+  hidden: true
 - type: text
   name: description
   label: description
+  hidden: true
+  default: Jobs@CanadaDev
 - type: text
   name: image
   label: image
+  hidden: true
 - type: text
   name: jobApplyURL
-  label: jobApplyURL
+  label: Application Annex URL
+  config:
+    required: true
 - type: text
   name: jobDetails
-  label: jobDetails
+  label: Job Summary Sidecar
+  config:
+    required: true
 - type: list
   name: jobDetailsItem
-  label: jobDetailsItem
+  label: Job Details Sidecar
 - type: text
   name: jobType
-  label: jobType
+  label: Job List Summary
+  config:
+    required: true
 - type: text
   name: title
-  label: title
+  label: Job Title
+  description: Job Title
+  config:
+    required: true
