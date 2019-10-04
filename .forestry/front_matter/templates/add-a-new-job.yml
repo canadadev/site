@@ -2,6 +2,30 @@
 label: Add a New Job
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Job Title
+  description: Job Title
+  config:
+    required: true
+- type: text
+  name: jobType
+  label: Job List Summary
+  config:
+    required: true
+- type: text
+  name: jobDetails
+  label: Job Summary Sidecar
+  config:
+    required: true
+- type: list
+  name: jobDetailsItem
+  label: Job Details Sidecar
+- type: text
+  name: jobApplyURL
+  label: Application Annex URL
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
@@ -18,27 +42,3 @@ fields:
   name: image
   label: image
   hidden: true
-- type: text
-  name: jobApplyURL
-  label: Application Annex URL
-  config:
-    required: true
-- type: text
-  name: jobDetails
-  label: Job Summary Sidecar
-  config:
-    required: true
-- type: list
-  name: jobDetailsItem
-  label: Job Details Sidecar
-- type: text
-  name: jobType
-  label: Job List Summary
-  config:
-    required: true
-- type: text
-  name: title
-  label: Job Title
-  description: Job Title
-  config:
-    required: true
