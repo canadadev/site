@@ -1,0 +1,31 @@
+---
+label: Add a New Job
+hide_body: false
+fields:
+- type: file
+  name: bgimage
+  label: bgimage
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: image
+  label: image
+- type: text
+  name: jobApplyURL
+  label: jobApplyURL
+- type: text
+  name: jobDetails
+  label: jobDetails
+- type: list
+  name: jobDetailsItem
+  label: jobDetailsItem
+- type: text
+  name: jobType
+  label: jobType
+- type: text
+  name: title
+  label: title
