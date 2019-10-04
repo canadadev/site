@@ -7,9 +7,7 @@ jobApplyURL = "https://jobs.annexgroup.com/job-details/13509"
 jobDetails = "test 1"
 jobDetailsItem = []
 jobType = "test 2"
-title = ".Net Developer "
-type = "job"
-
+title = ".Net Developer"
 +++
 **Role: Network Administrator - Junior+**
 
