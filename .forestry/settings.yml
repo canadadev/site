@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: directory
@@ -10,33 +10,23 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/search
-  label: Search
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/team
-  label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/jobs
-  label: Jobs
-  create: all
-  match: "**/*"
-- type: directory
   path: content/about
   label: About
   create: all
   match: "**/*"
 - type: directory
-  path: content/founders
-  label: Founders
+  path: content/contact
+  label: Contact
   create: all
   match: "**/*"
 - type: directory
-  path: content/blog
-  label: Blog
+  path: content/search
+  label: Search
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/career
+  label: Career
   create: all
   match: "**/*"
 upload_dir: static/uploads

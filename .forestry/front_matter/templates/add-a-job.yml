@@ -1,0 +1,78 @@
+---
+label: Add a job
+hide_body: false
+fields:
+- type: text
+  name: title
+  config:
+    required: true
+  label: Job Title
+  description: Job Title
+- type: datetime
+  name: date
+  label: Date with Time
+  config:
+    required: true
+  description: Always put in both the date and the exact TIME!
+- type: text
+  name: description
+  label: Meta Search Description
+  config:
+    required: true
+  description: This is the google search meta description
+  hidden: true
+  default: Jobs@CanadaDev
+- type: text
+  name: image
+  hidden: true
+  label: Client Logo
+- type: text
+  name: jobType
+  config:
+    required: true
+  label: Job Summary One Liner
+  description: e.g. Web Developer in Vancouver
+- type: text
+  name: jobDetails
+  label: Sidecar Job Quick Summary
+- type: text
+  name: jobApplyURL
+  label: Application URL
+  config:
+    required: true
+  description: This is the link that links to the application for the job
+- type: field_group_list
+  name: jobDetailsItem
+  label: Sidecar Extra Items
+  fields:
+  - type: text
+    name: title
+    label: title
+    config:
+      required: true
+    description: e.g. Location
+  - type: text
+    name: content
+    label: content
+    config:
+      required: true
+    description: e.g. Vancouver
+  description: This are the items that appear in the sidecar (like location)
+- name: bgimage
+  type: text
+  config:
+    required: false
+  label: Ignore
+  hidden: true
+  default: images/backgrounds/career-page.jpg
+- name: type
+  type: text
+  config:
+    required: true
+  label: type
+  hidden: true
+  default: job
+pages:
+- content/career/net-developer.md
+- content/career/this-is-a-test-job.md
+- content/career/special-web-developer.md

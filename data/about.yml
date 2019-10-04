@@ -38,5 +38,34 @@ about:
 service:
   enable : false
 
-team: 
+team:
   enable : true
+  title : "Meet Our Jobs Team"
+  teamMember:
+    # team member loop
+    - name : "Hayley Dawson"
+      image : "images/team/hayley.jpg" # image should be squre size
+      designation : "Senior Technical Recruiter"
+      email : "hdawson@annexgroup.com"
+      social:
+        - icon : "ti-linkedin" # here we use themefy icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/hayley-dawson/"
+          
+    # team member loop
+    - name : "Gaggn Bahra"
+      image : "images/team/gaggn.jpg" # image should be squre size
+      designation : "Technical Recruiter"
+      email : "gbahra@annexgroup.com"
+      social:
+        - icon : "ti-linkedin" # here we use themefy icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/gaggn-bahra-39b675167/"
+          
+    # team member loop
+    - name : "Lulu Bates"
+      image : "images/team/lulu.jpg" # image should be squre size
+      designation : "Recruitment Consultant"
+      email : "lbates@annexgroup.com"
+      social:
+        - icon : "ti-linkedin" # here we use themefy icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/lulubates/"
+          
