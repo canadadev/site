@@ -72,7 +72,3 @@ fields:
   label: type
   hidden: true
   default: job
-pages:
-- content/career/net-developer.md
-- content/career/this-is-a-test-job.md
-- content/career/special-web-developer.md
