@@ -42,3 +42,5 @@ fields:
   name: image
   label: image
   hidden: true
+pages:
+- content/jobs/test563.md
