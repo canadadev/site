@@ -9,7 +9,6 @@ fields:
 - type: list
   name: categories
   label: Job Categories
-  description: DevOps, Front-end, Back-end, Full Stack
   config:
     min: '1'
     max: '1'
@@ -25,7 +24,6 @@ fields:
 - type: list
   name: tags
   label: Job Tags
-  description: Junior, Intermediate, Senior, Co-op
   config:
     use_select: true
     min: '1'
