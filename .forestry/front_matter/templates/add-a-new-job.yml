@@ -4,37 +4,111 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Job Title
+  description: Job Title
+- type: list
+  name: categories
+  label: Job Categories
+  description: DevOps, Front-end, Back-end, Full Stack
+  config:
+    min: '1'
+    max: '1'
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Full Stack
+    - Front End
+    - Back End
+    - DevOps
+    - QA
+- type: list
+  name: tags
+  label: Job Tags
+  description: Junior, Intermediate, Senior, Co-op
+  config:
+    use_select: true
+    min: '1'
+    max: '1'
+    source:
+      type: simple
+    options:
+    - Junior
+    - Intermediate
+    - " Senior"
+    - Co-op
+- name: image
+  type: select
+  default: images/blog/post-1.webp
+  config:
+    required: true
+    options:
+    - images/blog/post-1.webp
+    - images/blog/post-2.webp
+    - images/blog/post-3.webp
+    - images/blog/post-4.webp
+    - images/blog/post-5.webp
+    - images/blog/post-6.webp
+    - images/blog/post-7.webp
+    - images/blog/post-8.webp
+    - images/blog/post-9.webp
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Job Image
+- name: imageAlt
+  type: select
+  default: images/blog/post-1.jpg
+  config:
+    required: true
+    options:
+    - images/blog/post-1.jpg
+    - images/blog/post-2.jpg
+    - images/blog/post-3.jpg
+    - images/blog/post-4.jpg
+    - images/blog/post-5.jpg
+    - images/blog/post-6.jpg
+    - images/blog/post-7.jpg
+    - images/blog/post-8.jpg
+    - images/blog/post-9.jpg
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Job Image Alt
 - type: datetime
   name: date
   label: date
+  default: now
+  hidden: true
 - type: text
   name: description
-  label: description
+  label: meta description
+  hidden: true
+  default: Jobs@CanadaDev
 - type: text
   name: bgImage
   label: bgImage
+  hidden: true
 - type: file
   name: bgImageAlt
   label: bgImageAlt
-- type: text
-  name: image
-  label: image
-- type: file
-  name: imageAlt
-  label: imageAlt
+  hidden: true
 - type: text
   name: author
   label: author
+  default: CanadaDev
+  hidden: true
 - type: text
   name: postType
   label: postType
+  default: Job
+  hidden: true
 - type: text
   name: type
   label: type
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
+  hidden: true
+  default: post
