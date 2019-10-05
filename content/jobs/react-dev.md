@@ -15,9 +15,9 @@ title = "Senior Full Stack Developer"
 type = "post"
 
 +++
-**5+ Months Contract, based in Victoria**
+**5+ Months Contract, based in Victoria.**
 
-**Start Date of October 2019**
+**Start Date of October 2019.**
 
 Government experience is an asset in this role. This migration project impacts all students in British Columbia, the current team are already present and working under Agile to materialise the best outcome.
 
