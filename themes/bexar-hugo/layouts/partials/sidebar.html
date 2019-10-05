@@ -2,7 +2,7 @@
 <aside class="col-lg-4 order-1 order-lg-2">
   {{ "<!-- latest post -->" | safeHTML }}
   <div class="bg-white px-4 py-5 box-shadow mb-5">
-    <h4 class="mb-4">Latest Article</h4>
+    <h4 class="mb-4">Latest Jobs</h4>
     {{ "<!-- post-item -->" | safeHTML }}
     {{ range first 3 ( where .Site.Pages "Type" "post" )}}
     <div class="media border-bottom border-color pb-3 mb-3">
