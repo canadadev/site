@@ -13,7 +13,7 @@ about:
 
 # funfacts
 funfacts :
-  enable : true
+  enable : false
   funfactsItem :
     - title : "Members"
       count : "8000"
@@ -78,6 +78,10 @@ project:
 # testimonial
 testimonial:
   enable : false
+
+# pricing
+pricing:
+  enable : true
 
 # blog
 blog:

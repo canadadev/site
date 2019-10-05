@@ -1,0 +1,35 @@
+enable : true
+titleSM : "Annual Plans - billed in USD monthly"
+title : "CanadaDev Membership"
+pricingTable:
+  - monthlyPack : "Regular Member"
+    monthlyValue : "$29.99 USD"
+    monthlyDescription : "Best for freelancers or employees"
+    monthlyButtonURL: "/join"
+    monthlyService:
+      - serviceItem : "Meetup Network"
+      - serviceItem : "Coaching Network"
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Discounts"
+      - serviceItem : "Advocacy"
+
+      
+  - monthlyPack : "Founding Member"
+    monthlyValue : "$49.99 USD"
+    monthlyDescription : "Best for startup founders"
+    monthlyButtonURL: "/join"
+    monthlyService:
+      - serviceItem : "Regular Membership+"
+      - serviceItem : "LinkedIn and headshot in 'Founders' section"
+      - serviceItem : "Exclusive Coaches"
+      - serviceItem : "Exclusive Discounts"
+      - serviceItem : "Exclusive Content"
+
+      
+  - monthlyPack : "Corporate Sponsorship"
+    monthlyValue : "$299.99 USD"
+    monthlyDescription : "Best for sponsoring companies"
+    monthlyButtonURL: "/sponsor"
+    monthlyService:
+      - serviceItem : "Company logo in 'Sponsors' section"
+      - serviceItem : "Exclusive access to attend meetups with sponsor intro and possible banners"

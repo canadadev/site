@@ -8,7 +8,7 @@ image: "images/service/service-6.webp"
 imageAlt: "images/service/service-6.jpg"
 icon: "fa-briefcase"
 type: "benefits"
-row: "2"
+row: "1"
 ---
 
 Provides employment opportunities across the nation from a trusted provider

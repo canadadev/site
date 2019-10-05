@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-CanadaDev is built on local meetups and they are your learning platform
+Local meetups with a monthly talk are great for networking and learning
 
 ### Benefits of Community
 

@@ -13,9 +13,6 @@
       <h2 class="section-title">{{ .title }}</h2>
       <p>{{ .content }}</p>
       <iframe src="https://player.vimeo.com/video/361968478" width="440" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      {{ with .button }}
-      <a href="{{ .URL | absURL }}" class="btn btn-primary hover-ripple">{{ .btnText }}</a>
-      {{ end }}
       {{ end }}
     </div>
   </div>
