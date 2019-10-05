@@ -91,6 +91,13 @@ fields:
       file: 
       path: 
   label: Job Image Alt
+- name: jobApplyURL
+  type: text
+  config:
+    required: true
+  label: Job Application URL
+  description: Annex Job URL
+  default: "#"
 - type: datetime
   name: date
   label: date
@@ -124,12 +131,5 @@ fields:
   label: type
   hidden: true
   default: post
-- name: applyJobURL
-  type: text
-  config:
-    required: true
-  label: Job Application URL
-  description: Annex Job URL
-  default: "#"
 pages:
 - content/jobs/react-dev.md
