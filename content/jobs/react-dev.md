@@ -8,7 +8,7 @@ description = "Jobs@CanadaDev"
 image = "images/blog/post-2.webp"
 imageAlt = "images/blog/post-2.jpg"
 postType = "Job"
-tags = ["Junior"]
+tags = ["Vancouver", "Junior"]
 title = "React Dev"
 type = "post"
 
