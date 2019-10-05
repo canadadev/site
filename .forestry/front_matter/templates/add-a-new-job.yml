@@ -27,7 +27,7 @@ fields:
   config:
     use_select: true
     min: '1'
-    max: '1'
+    max: '2'
     source:
       type: simple
     options:
@@ -35,6 +35,22 @@ fields:
     - Intermediate
     - " Senior"
     - Co-op
+    - Vancouver
+    - Calgary
+    - Edmonton
+    - VIctoria
+    - Toronto
+    - Halifax
+    - Saskatoon
+    - Remote
+    - Winnipeg
+    - Waterloo
+    - Ottawa
+    - Montreal
+    - Fredericton
+    - Charlottetown
+    - St. John's
+  description: Seniority and Location
 - name: image
   type: select
   default: images/blog/post-1.webp
