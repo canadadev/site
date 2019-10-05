@@ -7,27 +7,12 @@ fields:
   label: Job Title
   description: Job Title
 - type: list
-  name: categories
-  label: Job Categories
-  config:
-    min: '1'
-    max: '1'
-    use_select: true
-    source:
-      type: simple
-    options:
-    - Full Stack
-    - Front End
-    - Back End
-    - DevOps
-    - QA
-- type: list
   name: tags
   label: Job Tags
   config:
     use_select: true
     min: '1'
-    max: '2'
+    max: ''
     source:
       type: simple
     options:
@@ -50,7 +35,20 @@ fields:
     - Fredericton
     - Charlottetown
     - St. John's
-  description: Seniority and Location
+    - Full Stack
+    - DevOps
+    - Front End
+    - Back End
+    - C++
+    - Go
+    - Rust
+    - Node.js
+    - React.js
+    - PHP
+    - C#
+    - Java
+    - Ruby
+  description: Seniority, Job Type, and Location
 - name: image
   type: select
   default: images/blog/post-1.webp
