@@ -112,3 +112,5 @@ fields:
   label: type
   hidden: true
   default: post
+pages:
+- content/jobs/react-dev.md
