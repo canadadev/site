@@ -5,7 +5,6 @@ bgImage = ""
 bgImageAlt = ""
 date = "2019-10-05T02:41:28+00:00"
 description = "Jobs@CanadaDev"
-draft = true
 image = "images/blog/post-6.webp"
 imageAlt = "images/blog/post-6.jpg"
 jobApplyURL = "#"
