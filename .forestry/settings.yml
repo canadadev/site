@@ -5,68 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/conduct
-  label: Conduct
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/sponsor
-  label: Sponsor
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/privacy
-  label: Privacy
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/team
-  label: Team
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ethics
-  label: Ethics
-  create: all
-  match: "**/*"
-- type: directory
   path: content/jobs
   label: Jobs
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/founders
-  label: Founders
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/terms
-  label: Terms
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/benefits
-  label: Benefits
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/search
-  label: Search
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/career
-  label: Career
   create: all
   match: "**/*"
 upload_dir: static/uploads
