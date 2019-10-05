@@ -1,7 +1,7 @@
 {{ "<!-- sidebar -->" | safeHTML }}
 <aside class="col-lg-4 order-1 order-lg-2">
   {{ "<!-- latest post -->" | safeHTML }}
-  <div class="bg-white px-4 py-5 box-shadow mb-5">
+  <!-- <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4">Latest Jobs</h4>
     {{ "<!-- post-item -->" | safeHTML }}
     {{ range first 3 ( where .Site.Pages "Type" "post" )}}
@@ -15,9 +15,9 @@
       </div>
     </div>
     {{ end }}
-  </div>
+  </div> -->
   {{ "<!-- categories -->" | safeHTML }}
-  <div class="bg-white px-4 py-5 box-shadow mb-5">
+  <!-- <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4">Category</h4>
     {{- if isset .Site.Taxonomies "categories" }}
     {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
@@ -28,7 +28,7 @@
     </ul>
     {{- end }}
     {{- end }}
-  </div>
+  </div> -->
   {{ "<!-- tags -->" | safeHTML }}
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4">TAGS</h4>
