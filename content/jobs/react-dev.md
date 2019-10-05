@@ -15,8 +15,6 @@ title = "Senior Full Stack Developer"
 type = "post"
 
 +++
-**Senior Full Stack Developer**
-
 **5+ Months Contract, based in Victoria**
 
 **Start Date of October 2019**
