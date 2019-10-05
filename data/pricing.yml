@@ -1,9 +1,9 @@
 enable : true
-titleSM : "Annual Plans - billed in USD monthly"
+titleSM : "Annual Plans - billed monthly"
 title : "CanadaDev Membership"
 pricingTable:
   - monthlyPack : "Regular Member"
-    monthlyValue : "$29.99 USD"
+    monthlyValue : "$29.99"
     monthlyDescription : "Best for freelancers or employees"
     monthlyButtonURL: "/join"
     monthlyService:
@@ -15,7 +15,7 @@ pricingTable:
 
       
   - monthlyPack : "Founding Member"
-    monthlyValue : "$49.99 USD"
+    monthlyValue : "$49.99"
     monthlyDescription : "Best for startup founders"
     monthlyButtonURL: "/join"
     monthlyService:
@@ -27,7 +27,7 @@ pricingTable:
 
       
   - monthlyPack : "Corporate Sponsorship"
-    monthlyValue : "$299.99 USD"
+    monthlyValue : "$299.99"
     monthlyDescription : "Best for sponsoring companies"
     monthlyButtonURL: "/sponsor"
     monthlyService:
