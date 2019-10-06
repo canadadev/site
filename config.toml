@@ -114,6 +114,12 @@ paginate = 6
     URL = "/sponsor"
     weight = 5
 
+    [[menu.main]]
+    parent = "About"
+    name = "Become a Member"
+    URL = "/join"
+    weight = 6
+
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
