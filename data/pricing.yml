@@ -13,7 +13,7 @@ pricingTable:
       - serviceItem : "Advocacy"
  
 
-  - monthlyPack : "Regular Member"
+  - monthlyPack : "Regular"
     monthlyValue : "$19.99"
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
@@ -22,7 +22,7 @@ pricingTable:
       - serviceItem : "Coaching Network"
       - serviceItem : "Discounts"
 
-  - monthlyPack : "Founding Member"
+  - monthlyPack : "Founder"
     monthlyValue : "$39.99"
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
