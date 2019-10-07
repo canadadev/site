@@ -25,7 +25,7 @@ type = "post"
 Our client is searching for an experienced C#, .Net Software Developer to work closely with the IT teams to improve the eCommerce business solutions.
 
 * Working with the IT teams to plan, design, code, debug, test and document technical solutions using Agile software development methodologies
-* Design and develop and document a secured payment redirect solution
+* Design, develop and document a secured payment redirect solution
 * Assessing technical challenges/opportunities and recommending value-add improvements and time estimates
 * Conducting a current state analysis
 * Translating requirements into detailed and actionable standard technical specifications
