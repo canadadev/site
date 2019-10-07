@@ -132,5 +132,5 @@ fields:
   hidden: true
   default: post
 pages:
-- content/jobs/ios-mobile-developer.md
 - content/jobs/senior-net-developer.md
+- content/jobs/ios-mobile-developer.md

@@ -34,4 +34,4 @@ Our client is searching for an experienced C#, .Net Software Developer to work c
 
 * Well-versed in C#, ASP.NET MVC, WCF, JavaScript, Ajax, IIS
 * Experienced working in an Agile environment
-* Must be able to work on site in Victoria office
+* Must be able to work on site in the Victoria office
