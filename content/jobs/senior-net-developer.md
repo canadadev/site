@@ -8,7 +8,7 @@ image = "images/blog/post-1.webp"
 imageAlt = "images/blog/post-1.jpg"
 jobApplyURL = "https://jobs.annexgroup.com/job-details/13473"
 postType = "Job"
-tags = ["C#", "VIctoria", " Senior"]
+tags = ["Full Stack", "C#", "VIctoria", " Senior"]
 title = "Senior .Net Developer"
 type = "post"
 
