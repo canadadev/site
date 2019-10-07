@@ -1,5 +1,5 @@
 enable : true
-titleSM : "Annual Plans - billed monthly and includes sales tax"
+titleSM : "Annual Plans - billed CAD monthly and includes sales tax"
 title : "CanadaDev Membership"
 pricingTable:
   - monthlyPack : "Regular Member"
