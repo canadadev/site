@@ -15,6 +15,8 @@ type = "post"
 +++
 **Position:** (Senior) .Net Developer
 
+**Length**: Contract
+
 **Location:** Victoria, BC
 
 **Responsibilities**
@@ -29,13 +31,6 @@ Our client is searching for an experienced C#, .Net Software Developer to work c
 
 **Requirements**
 
-* Well-versed in IIS, C#, ASP.NET MVC, WCF, JavaScript, Ajax,
-* Experienced working in an Agile environment XML
-
-**About Annex**
-
-Annex Consulting Group is a full-service IT and management consulting firm, specializing in staff augmentation contracting, permanent staffing, and outsourced solutions. Candidates must be legally entitled to work in location advertised.
-
-Not interested but know someone who is a fit for this role? Check out the award-winning [Annex](http://www.annexgroup.com/) [Referral Program](http://www.annexgroup.com/about/referral-program/).
-
-**Leaders in IT. Advisors in Business. Partners in Solutions.**
+* Well-versed in C#, ASP.NET MVC, WCF, JavaScript, Ajax, IIS
+* Experienced working in an Agile environment
+* Must be able to work on site in Victoria office
