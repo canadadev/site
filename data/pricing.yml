@@ -2,21 +2,29 @@ enable : true
 titleSM : "Annual Plans - billed CAD monthly and includes sales tax"
 title : "CanadaDev Membership"
 pricingTable:
-  - monthlyPack : "Regular Member"
-    monthlyValue : "$19.99"
-    monthlyDescription : "Best for freelancers or employees"
-    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
+
+  - monthlyPack : "Associate"
+    monthlyValue : "Free"
+    monthlyDescription : ""
+    monthlyButtonURL: "https://canadadev.memberful.com/register"
     monthlyService:
       - serviceItem : "Meetup Network"
-      - serviceItem : "Coaching Network"
       - serviceItem : "Employment Opportunties"
-      - serviceItem : "Discounts"
       - serviceItem : "Advocacy"
+ 
 
-      
+  - monthlyPack : "Regular Member"
+    monthlyValue : "$19.99"
+    monthlyDescription : ""
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
+    monthlyService:
+      - serviceItem : "Free Membership+"
+      - serviceItem : "Coaching Network"
+      - serviceItem : "Discounts"
+
   - monthlyPack : "Founding Member"
     monthlyValue : "$39.99"
-    monthlyDescription : "Best for startup founders"
+    monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
       - serviceItem : "Regular Membership+"
@@ -24,11 +32,12 @@ pricingTable:
       - serviceItem : "Exclusive Coaches"
       - serviceItem : "Exclusive Discounts"
       - serviceItem : "Exclusive Content"
+      - serviceItem : "Limited Edition Swag Item"
 
       
   - monthlyPack : "Corporate Sponsorship"
     monthlyValue : "$299.99"
-    monthlyDescription : "Best for sponsoring companies"
+    monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42787"
     monthlyService:
       - serviceItem : "Company logo in 'Sponsors' section"
