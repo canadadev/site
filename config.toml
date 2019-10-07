@@ -111,7 +111,7 @@ paginate = 6
     [[menu.main]]
     parent = "About"
     name = "Become a Sponsor"
-    URL = "/sponsor"
+    URL = "https://canadadev.memberful.com/checkout?plan=42787"
     weight = 5
 
   [[menu.footer]]
@@ -184,7 +184,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Become a Sponsor"
-  URL = "/sponsor"
+  URL = "https://canadadev.memberful.com/checkout?plan=42787"
 
   # Footer
   [params.footer]
