@@ -28,6 +28,6 @@ pricingTable:
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
       - serviceItem : "Regular Membership+"
-      - serviceItem : "LinkedIn and headshot in website"
+      - serviceItem : "LinkedIn and headshot on website"
       - serviceItem : "Exclusive Content"
       - serviceItem : "Limited Edition Swag Item"
