@@ -29,7 +29,5 @@ pricingTable:
     monthlyService:
       - serviceItem : "Regular Membership+"
       - serviceItem : "LinkedIn and headshot in 'Founders' section"
-      - serviceItem : "Exclusive Coaches"
-      - serviceItem : "Exclusive Discounts"
       - serviceItem : "Exclusive Content"
       - serviceItem : "Limited Edition Swag Item"
