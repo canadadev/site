@@ -30,4 +30,4 @@ Government experience is an asset in this role. This migration project impacts a
 * Experience with authentication and authorization frameworks such as OAuth2
 * Experience building and deploying lightweight SpringBoot services
 
-_Deadline to apply is October 18th 2019, the majority (or 60%) of requirements above need to be met to be considered._
+_Deadline to apply is October 18th 2019, the majority (or 60%) of requirements above need to be met to be considered. Please only apply if you are based in Canada with a valid work permit._
