@@ -4,6 +4,7 @@ bgImage = ""
 bgImageAlt = ""
 date = "2019-10-07T17:54:33+00:00"
 description = "Jobs@CanadaDev"
+draft = true
 image = "images/blog/post-1.webp"
 imageAlt = "images/blog/post-1.jpg"
 jobApplyURL = "https://jobs.annexgroup.com/job-details/13473"
@@ -33,4 +34,4 @@ Our client is searching for an experienced C#, .Net Software Developer to work c
 
 * Well-versed in C#, ASP.NET MVC, WCF, JavaScript, Ajax, IIS
 * Experienced working in an Agile environment
-* Must be able to work on site in the Victoria office
+* Must be able to work on site in Victoria office
