@@ -45,7 +45,6 @@ fields:
     - Node.js
     - React.js
     - PHP
-    - C#
     - Java
     - Ruby
   description: Seniority, Job Type, and Location
