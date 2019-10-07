@@ -1,5 +1,4 @@
 +++
-jobApplyURL = "https://jobs.annexgroup.com/job-details/13511"
 author = "CanadaDev"
 bgImage = ""
 bgImageAlt = ""
@@ -7,8 +6,9 @@ date = "2019-10-05T02:41:28+00:00"
 description = "Jobs@CanadaDev"
 image = "images/blog/post-6.webp"
 imageAlt = "images/blog/post-6.jpg"
+jobApplyURL = "https://jobs.annexgroup.com/job-details/13511"
 postType = "Job"
-tags = ["VIctoria", "Full Stack", " Senior", "Java", "React.js"]
+tags = ["Full Stack", " Senior", "Java", "React.js", "Victoria", "Vancouver Island", "Spring", "JavaScript", "ReactJS", "React", "Vue.js", "OpenShift ", "Kubernetes", "Docker", "SpringBoot", "OAuth2", "government"]
 title = "Senior Full Stack Developer"
 type = "post"
 
