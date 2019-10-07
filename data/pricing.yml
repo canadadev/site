@@ -1,11 +1,11 @@
 enable : true
-titleSM : "Annual Plans in USD via Patreon - billed monthly"
+titleSM : "Annual Plans - billed monthly and includes sales tax"
 title : "CanadaDev Membership"
 pricingTable:
   - monthlyPack : "Regular Member"
-    monthlyValue : "$29.99 USD"
+    monthlyValue : "$19.99"
     monthlyDescription : "Best for freelancers or employees"
-    monthlyButtonURL: "/join"
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
       - serviceItem : "Meetup Network"
       - serviceItem : "Coaching Network"
@@ -15,9 +15,9 @@ pricingTable:
 
       
   - monthlyPack : "Founding Member"
-    monthlyValue : "$49.99 USD"
+    monthlyValue : "$39.99"
     monthlyDescription : "Best for startup founders"
-    monthlyButtonURL: "/join"
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
       - serviceItem : "Regular Membership+"
       - serviceItem : "LinkedIn and headshot in 'Founders' section"
@@ -27,9 +27,9 @@ pricingTable:
 
       
   - monthlyPack : "Corporate Sponsorship"
-    monthlyValue : "$299.99 USD"
+    monthlyValue : "$299.99"
     monthlyDescription : "Best for sponsoring companies"
-    monthlyButtonURL: "/sponsor"
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42787"
     monthlyService:
       - serviceItem : "Company logo in 'Sponsors' section"
       - serviceItem : "Exclusive access to attend meetups with sponsor intro and possible banners"
