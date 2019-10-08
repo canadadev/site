@@ -108,12 +108,6 @@ paginate = 6
     URL = "/ethics"
     weight = 4
 
-    [[menu.main]]
-    parent = "About"
-    name = "Become a Sponsor"
-    URL = "https://canadadev.memberful.com/checkout?plan=42787"
-    weight = 5
-
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"

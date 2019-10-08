@@ -1,16 +1,7 @@
 enable : true
 titleSM : "Monthly Recurring Plans - in CAD and includes sales tax"
 title : "CanadaDev Membership"
-pricingTable:
-
-  - monthlyPack : "Associate"
-    monthlyValue : "Free"
-    monthlyDescription : ""
-    monthlyButtonURL: "https://canadadev.memberful.com/register"
-    monthlyService:
-      - serviceItem : "Employment Opportunties"
-      - serviceItem : "Advocacy"
- 
+pricingTable: 
 
   - monthlyPack : "Regular"
     monthlyValue : "$19.99"
@@ -36,3 +27,12 @@ pricingTable:
       - serviceItem : "LinkedIn and headshot on website"
       - serviceItem : "Exclusive Content"
       - serviceItem : "Limited Edition Swag Item"
+
+  - monthlyPack : "Corporate Sponsorship"
+    monthlyValue : "$299.99"
+    monthlyDescription : ""
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42787"
+    monthlyService:
+      - serviceItem : "Add corporate logo on website"
+      - serviceItem : "Attend meetups, meetup shoutouts, and possible banners at meetups"
+      
