@@ -8,7 +8,6 @@ pricingTable:
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/register"
     monthlyService:
-      - serviceItem : "Meetup Network"
       - serviceItem : "Employment Opportunties"
       - serviceItem : "Advocacy"
  
@@ -18,7 +17,9 @@ pricingTable:
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
-      - serviceItem : "Free Membership+"
+      - serviceItem : "Meetup Network"
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Advocacy"
       - serviceItem : "Coaching Network"
       - serviceItem : "Discounts"
 
@@ -27,7 +28,11 @@ pricingTable:
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
-      - serviceItem : "Regular Membership+"
+      - serviceItem : "Meetup Network"
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Advocacy"
+      - serviceItem : "Coaching Network"
+      - serviceItem : "Discounts"
       - serviceItem : "LinkedIn and headshot on website"
       - serviceItem : "Exclusive Content"
       - serviceItem : "Limited Edition Swag Item"
