@@ -13,11 +13,7 @@ title = "Senior .Net Developer"
 type = "post"
 
 +++
-**Position:** (Senior) .Net Developer
-
-**Length**: Contract
-
-**Location:** Victoria, BC
+**6 Month Contract, based in Victoria.**
 
 **Responsibilities**
 
