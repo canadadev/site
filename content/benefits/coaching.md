@@ -15,9 +15,8 @@ Access to an exclusive coaching network across the nation
 
 ### Benefits of Coaching
 
-1. Learn
-2. Teach
-3. Empower
-4. Get to the next level!
+* Learn from the experts
+* Become an approved coach and charge for your services directly
+* Types of coaches can be anything - generally software engineering, business, and etc.
 
-Become a member to choose a coach.
+Become a member to choose a coach and/or become a coach.
