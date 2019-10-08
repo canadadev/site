@@ -160,6 +160,9 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     [[params.topHeader.icon]]
       icon = "fa-vimeo"
       URL = "/vimeo"
+    [[params.topHeader.icon]]
+      icon = "fa-discord"
+      URL = "/discord"
 
   # search
   [params.search]
