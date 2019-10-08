@@ -34,5 +34,6 @@ pricingTable:
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42787"
     monthlyService:
       - serviceItem : "Add corporate logo on website"
-      - serviceItem : "Attend meetups, meetup shoutouts, and possible banners at meetups"
-      
+      - serviceItem : "Attend meetups"
+      - serviceItem : "Meetup shoutouts"
+      - serviceItem : "Possible corporate banners at meetups"
