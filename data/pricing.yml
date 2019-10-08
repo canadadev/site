@@ -18,21 +18,21 @@ pricingTable:
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
       - serviceItem : "Meetup Network"
-      - serviceItem : "Employment Opportunties"
-      - serviceItem : "Advocacy"
       - serviceItem : "Coaching Network"
       - serviceItem : "Discounts"
-
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Advocacy"
+      
   - monthlyPack : "Founder"
     monthlyValue : "$39.99"
     monthlyDescription : ""
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
       - serviceItem : "Meetup Network"
-      - serviceItem : "Employment Opportunties"
-      - serviceItem : "Advocacy"
       - serviceItem : "Coaching Network"
       - serviceItem : "Discounts"
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Advocacy"
       - serviceItem : "LinkedIn and headshot on website"
       - serviceItem : "Exclusive Content"
       - serviceItem : "Limited Edition Swag Item"
