@@ -108,6 +108,12 @@ paginate = 6
     URL = "/ethics"
     weight = 4
 
+    [[menu.main]]
+    parent = "About"
+    name = "Become a Chapter Leader"
+    URL = "/organize"
+    weight = 5
+
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
