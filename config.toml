@@ -97,6 +97,12 @@ paginate = 6
     URL = "/organize"
     weight = 3
 
+    [[menu.main]]
+    parent = "About"
+    name = "Manage Membership"
+    URL = "https://canadadev.memberful.com/account"
+    weight = 4
+
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
