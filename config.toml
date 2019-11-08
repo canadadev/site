@@ -70,38 +70,55 @@ paginate = 6
   weight = 1
 
   [[menu.main]]
-  name = "Jobs"
-  URL = "/jobs"
+  name = "Coaches"
+  URL = "/coaches"
   weight = 2
 
   [[menu.main]]
-  name = "About"
+  name = "Jobs"
+  URL = "/jobs"
   weight = 3
+
+  [[menu.main]]
+  name = "More"
+  weight = 4
   hasChildren = true
 
     [[menu.main]]
-    parent = "About"
+    parent = "More"
     name = "Association"
     URL = "/about"
     weight = 1
 
     [[menu.main]]
-    parent = "About"
+    parent = "More"
     name = "Code of Ethics"
     URL = "/ethics"
     weight = 2
 
     [[menu.main]]
-    parent = "About"
+    parent = "More"
     name = "Become a Chapter Leader"
-    URL = "/organize"
+    URL = "/leaders"
     weight = 3
 
     [[menu.main]]
-    parent = "About"
+    parent = "More"
+    name = "Become a Speaker"
+    URL = "/speakers"
+    weight = 4
+
+    [[menu.main]]
+    parent = "More"
+    name = "Become a Coach"
+    URL = "/coach"
+    weight = 5
+
+    [[menu.main]]
+    parent = "More"
     name = "Manage Membership"
     URL = "https://canadadev.memberful.com/account"
-    weight = 4
+    weight = 6
 
   [[menu.footer]]
   name = "Terms of Service"
