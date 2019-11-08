@@ -1,39 +1,27 @@
 enable : true
-titleSM : "Monthly Recurring Plans - in CAD and includes sales tax"
+titleSM : "Monthly Recurring Plans in Canadian and includes sales tax"
 title : "CanadaDev Membership"
 pricingTable: 
 
-  - monthlyPack : "Learner"
-    monthlyValue : "$19.99"
-    monthlyDescription : ""
-    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
-    monthlyService:
-      - serviceItem : "Meetups"
-      - serviceItem : "Coaching"
-      - serviceItem : "Discounts"
-      - serviceItem : "Employment Opportunties"
-      - serviceItem : "Advocacy"
-      
+
   - monthlyPack : "Coach"
     monthlyValue : "$39.99"
-    monthlyDescription : ""
+    monthlyDescription : "Requires approval"
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
       - serviceItem : "Meetups"
-      - serviceItem : "Coaching"
       - serviceItem : "Become a Coach"
       - serviceItem : "Discounts"
       - serviceItem : "Employment Opportunties"
       - serviceItem : "Advocacy"
-      - serviceItem : "Exclusive Content"
-      - serviceItem : "Limited Edition Swag Item"
 
-  - monthlyPack : "Corporate Sponsorship"
-    monthlyValue : "$299.99"
-    monthlyDescription : ""
-    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42787"
+  - monthlyPack : "Learner"
+    monthlyValue : "$19.99"
+    monthlyDescription : "Open to all"
+    monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
-      - serviceItem : "Add corporate logo on website"
-      - serviceItem : "Attend meetups"
-      - serviceItem : "Meetup shoutouts"
-      - serviceItem : "Possible corporate banners at meetups"
+      - serviceItem : "Meetups"
+      - serviceItem : "Access Coaching"
+      - serviceItem : "Discounts"
+      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Advocacy"
