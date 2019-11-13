@@ -9,8 +9,9 @@ imageAlt: "images/team/bh.jpg"
 designation: "SaaS and software engineering"
 type: "coaches"
 socialIcon:
+  - icon : "fa-linkedin"
+    URL : "https://linkedin.com/in/bevanhunt"
   - icon : "fa-calendar"
     URL : "https://calendly.com/canadadev"
-    
 ---
 
