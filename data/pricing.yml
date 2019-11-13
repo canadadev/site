@@ -5,7 +5,7 @@ pricingTable:
 
 
   - monthlyPack : "Coach"
-    monthlyValue : "$39.99*"
+    monthlyValue : "$39.99"
     monthlyDescription : "Requires approval"
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
@@ -15,10 +15,9 @@ pricingTable:
       - serviceItem : "Employment Opportunties"
       - serviceItem : "Health Benefits"
       - serviceItem : "Banking"
-      - serviceItem : "(*add ~$60 per month for insurance billed separately)"
 
   - monthlyPack : "Learner"
-    monthlyValue : "$19.99*"
+    monthlyValue : "$19.99"
     monthlyDescription : "Open to all"
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
@@ -28,4 +27,3 @@ pricingTable:
       - serviceItem : "Employment Opportunties"
       - serviceItem : "Health Benefits"
       - serviceItem : "Banking"
-      - serviceItem : "(*add ~$60 per month for insurance billed separately)"
