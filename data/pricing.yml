@@ -13,7 +13,7 @@ pricingTable:
       - serviceItem : "Become a Coach"
       - serviceItem : "Discounts"
       - serviceItem : "Employment Opportunties"
-      - serviceItem : "Health Benefits"
+      - serviceItem : "Telemedicine"
       - serviceItem : "Banking"
 
   - monthlyPack : "Learner"
@@ -25,5 +25,5 @@ pricingTable:
       - serviceItem : "Access Coaching"
       - serviceItem : "Discounts"
       - serviceItem : "Employment Opportunties"
-      - serviceItem : "Health Benefits"
+      - serviceItem : "Telemedicine"
       - serviceItem : "Banking"
