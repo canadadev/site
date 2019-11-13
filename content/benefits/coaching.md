@@ -17,6 +17,6 @@ Access to an exclusive coaching network across the nation
 
 * Learn from the experts
 * Become an approved coach and charge for your services directly
-* Types of coaches can be anything - generally software engineering, business, and etc.
+* Coach in anything applicable to software engineering - programming, business, and etc.
 
 * View [CanadaDev's Coaching Network](/coaches)
