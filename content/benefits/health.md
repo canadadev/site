@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Telemedicine like online doctors, mental health navigator, and best doctors for you and your family.
+Telemedicine like online doctors, mental health navigator, and best doctors.
 
 
 ### CanadaDev Telemedicine
