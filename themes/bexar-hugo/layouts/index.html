@@ -149,22 +149,9 @@
                     <li class="mb-3">{{ .serviceItem }}</li>
                     {{ end }}
                   </ul>
-                  <a href="{{ .monthlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Select Plan</a>
-                </div>
-              </li>
-              <li data-type="yearly" class="is-hidden">
-                {{ "<!-- pricing table -->" | safeHTML }}
-                <div class="py-5 px-4 text-center border-left border-right border-color pricing-table {{if eq $index 1}}active{{end}}">
-                  <h4 class="section-title-sm">{{ .yearlyPack }}</h4>
-                  <h2>{{ .yearlyValue }}</h2>
-                  <h5 class="mb-4">{{ .yearlyDescription }}</h5>
-                  <div class="border-bottom border-color mb-5"></div>
-                  <ul class="list-unstyled mb-5">
-                    {{ range .yearlyService }}
-                    <li class="mb-3">{{ .serviceItem }}</li>
-                    {{ end }}
-                  </ul>
-                  <a href="{{ .yearlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Select Plan</a>
+                  {{ if eq $index 1 }}
+                    <a href="{{ .monthlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Select Plan</a>
+                  {{ end }}
                 </div>
               </li>
             </ul>
