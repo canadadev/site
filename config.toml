@@ -80,8 +80,13 @@ paginate = 6
   weight = 3
 
   [[menu.main]]
-  name = "More"
+  name = "Survey"
+  URL = "/survey"
   weight = 4
+
+  [[menu.main]]
+  name = "More"
+  weight = 5
   hasChildren = true
 
     [[menu.main]]
