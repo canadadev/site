@@ -29,12 +29,12 @@ As a member of CanadaDev, you will have a direct contact at Coast Capital Saving
 
 #### Personal Package:
 * First free cheque order with the Free Chequing Debit and More Account
-* Lowest offered Interest rate for $20,000 line of credit (Subject to qualification)
+* Lowest offered Interest rate for $20,000 line of credit (subject to qualification)
 * Staff Pricing for SEI mutual funds (O Class)
-* Preferred interest rate for mortgages*Subject to qualification
+* Preferred interest rate for mortgages (subject to qualification)
 
 #### Business Package:
 * Waive 1 year fee on business account and first cheque order is free
-* Lowest offered Interest Rate for $20,000 line of credit (Subject to qualifying)
+* Lowest offered Interest Rate for $20,000 line of credit (subject to qualification)
 * Canadian Small Business Finance Program (new program launching next month)
 
