@@ -23,9 +23,9 @@ Local meetups with a monthly talk are great for networking and learning
 
 ### Community Networks
 
-* Join [CanadaDev's Meetup Network](https://canadadev.com/meetup) - 14 chapters across the nation!
+* Join [CanadaDev's Meetup Network](/meetup) - 14 chapters across the nation!
 
-* Join [CanadaDev's Linkedin Group](https://canadadev.com/linkedin)
+* Join [CanadaDev's Linkedin Group](/linkedin)
 
-* Watch [CanadaDev's Recorded Meetups](https://canadadev.com/vimeo)
+* Watch [CanadaDev's Recorded Meetups](/vimeo)
 

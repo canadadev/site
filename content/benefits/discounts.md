@@ -11,16 +11,18 @@ type: "benefits"
 row: "2"
 ---
 
-Provides discounts with leading suppliers that assist software engineers
+Provides member perks and specialized providers for software engineers.
 
-### Benefits of Discounts
+## MemberPerks
 
-1. Save money
-2. Do business with trusted suppliers
+* Travel Discounts
+* Local Merchant Discounts
+* Online Discounts
+* And many more types
 
-## CanadaDev Suppliers
+## Custom Suppliers
 
-- [Benchmark Law](https://www.benchmarklaw.ca/) - all services at discount of 10%
+- [Benchmark Law](https://www.benchmarklaw.ca/) - all legal services at discount of 10%
 - [Contact us](mailto:hello@canadadev.com?subject=%20Add me as supplier%20) to be added as a supplier
 
 Become a member to start saving now.

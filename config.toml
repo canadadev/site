@@ -181,7 +181,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   [params.navBtn]
   enable = false
   btnText = "Join Now"
-  URL = "/join"
+  URL = "https://canadadev.memberful.com/checkout?plan=42786"
 
   # call to action
   [params.cta]

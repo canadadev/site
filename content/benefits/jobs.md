@@ -8,7 +8,7 @@ image: "images/service/service-6.webp"
 imageAlt: "images/service/service-6.jpg"
 icon: "fa-briefcase"
 type: "benefits"
-row: "1"
+row: "2"
 ---
 
 Provides employment opportunities across the nation from a trusted provider
@@ -21,4 +21,4 @@ Provides employment opportunities across the nation from a trusted provider
 
 ### Jobs
 
-- [Show me the jobs](https://canadadev.com/jobs)
+- [Show me the jobs](/jobs)
