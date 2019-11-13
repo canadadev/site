@@ -15,7 +15,7 @@ Mandatory group insurance plan and telemedicine for you and your family.
 
 ### CanadaDev Insurance Plan
 
-* Mandatory Participation - about $60 a month billed by insurance company
+* Mandatory Plan - about $60 a month billed by insurance company (no qualifying medical test)
 * Semi-Guaranteed issued injury Disability Insurance protection 
 * Up to $4,500 tax free monthly benefit (higher amounts may also be available based on income)
 * Benefits payable after 30 days and up to age 70
@@ -26,6 +26,6 @@ Mandatory group insurance plan and telemedicine for you and your family.
 ### CanadaDev Telemedicine
 
 * Included in base monthly fee
-* Family doctor avaiable within about an hour wait-time 
-* Mental Health Services
-* Expert 2nd medical opinions
+* [Online Doctor](/pdfs/online_doctor.pdf) avaiable within a few hours wait-time
+* [Mental Health Navigator](/pdfs/mental_health.pdf)
+* [Best Doctors](/pdfs/best_doctors.pdf)
