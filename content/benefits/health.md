@@ -16,7 +16,6 @@ Telemedicine like online doctors, mental health navigator, and best doctors.
 
 ### CanadaDev Telemedicine
 
-* Included in base monthly fee
 * [Online Doctor](/pdfs/online_doctor.pdf) avaiable within a few hours wait-time
 * [Mental Health Navigator](/pdfs/mental_health.pdf)
 * [Best Doctors](/pdfs/best_doctors.pdf)
