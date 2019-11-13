@@ -1,5 +1,5 @@
 ---
-title: "Community"
+title: "Meetups"
 date: 2019-09-23T10:47:55+06:00
 description: "Strong communities across the nation"
 bgImage: "images/backgrounds/page-title.webp"
@@ -11,9 +11,9 @@ type: "benefits"
 row: "1"
 ---
 
-Local meetups with a monthly talk are great for networking and learning
+Local meetups with a monthly event are great for networking and learning
 
-### Benefits of Community
+### Benefits of Meetups
 
 * Networking
 * Learning
