@@ -11,9 +11,9 @@ type: "benefits"
 row: "2"
 ---
 
-Coast Capital provides a customized personal and business packages.
+Coming soon... Coast Capital custom banking packages for CanadaDev.
 
-### Coast Capital and CanadaDev
+### Coast Capital - coming soon
 Coast Capital Savings is Canada’s largest credit union by membership, with over 572,000 members and we’re growing. Now that we’re a federal credit union, we have big plans to extend into new markets. Let’s go over some of the details that explain why over half a million people trust our service today.
 
 #### You get a say

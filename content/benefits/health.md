@@ -8,13 +8,13 @@ image: "images/service/service-3.webp"
 imageAlt: "images/service/service-3.jpg"
 icon: "fa-heartbeat"
 type: "benefits"
-row: "1"
+row: "2"
 ---
 
-Telemedicine like online doctors, mental health navigator, and best doctors.
+Coming soon... like telemedicine (online doctors, best doctors, and etc).
 
 
-### CanadaDev Telemedicine
+### CanadaDev Telemedicine (Coming Soon)
 
 * [Online Doctor](/pdfs/online_doctor.pdf) avaiable within a few hours wait-time
 * [Mental Health Navigator](/pdfs/mental_health.pdf)

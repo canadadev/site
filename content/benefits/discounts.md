@@ -11,16 +11,9 @@ type: "benefits"
 row: "2"
 ---
 
-Provides member perks and specialized providers for software engineers.
+Provides quality discounts from specialized providers for CanadaDev members.
 
-## MemberPerks
-
-* Travel Discounts
-* Local Merchant Discounts
-* Online Discounts
-* And many more types
-
-## Custom Suppliers
+## Discounts
 
 - [Benchmark Law](https://www.benchmarklaw.ca/) - all legal services at discount of 10%
 - [Contact us](mailto:hello@canadadev.com?subject=%20Add me as supplier%20) to be added as a supplier

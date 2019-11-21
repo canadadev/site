@@ -2,19 +2,12 @@ enable : true
 titleSM : "Monthly Recurring Plans in Canadian and includes sales tax"
 title : "CanadaDev Membership"
 pricingTable: 
-
-
   - monthlyPack : "Coach"
     monthlyValue : "$39.99"
     monthlyDescription : "Requires approval"
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42785"
     monthlyService:
-      - serviceItem : "Meetups"
-      - serviceItem : "Become a Coach"
-      - serviceItem : "Discounts"
-      - serviceItem : "Employment Opportunties"
-      - serviceItem : "Telemedicine"
-      - serviceItem : "Banking"
+      - serviceItem : "Be a Coach"
 
   - monthlyPack : "Learner"
     monthlyValue : "$19.99"
@@ -22,8 +15,6 @@ pricingTable:
     monthlyButtonURL: "https://canadadev.memberful.com/checkout?plan=42786"
     monthlyService:
       - serviceItem : "Meetups"
-      - serviceItem : "Access Coaching"
+      - serviceItem : "Coaching"
       - serviceItem : "Discounts"
       - serviceItem : "Employment Opportunties"
-      - serviceItem : "Telemedicine"
-      - serviceItem : "Banking"
