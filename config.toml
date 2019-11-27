@@ -80,8 +80,8 @@ paginate = 6
   weight = 3
 
   [[menu.main]]
-  name = "Survey"
-  URL = "/survey"
+  name = "Code of Ethics"
+  URL = "/ethics"
   weight = 4
 
   [[menu.main]]
@@ -95,11 +95,7 @@ paginate = 6
     URL = "/about"
     weight = 1
 
-    [[menu.main]]
-    parent = "More"
-    name = "Code of Ethics"
-    URL = "/ethics"
-    weight = 2
+
 
     [[menu.main]]
     parent = "More"
