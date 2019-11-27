@@ -95,8 +95,6 @@ paginate = 6
     URL = "/about"
     weight = 1
 
-
-
     [[menu.main]]
     parent = "More"
     name = "Become a Chapter Leader"

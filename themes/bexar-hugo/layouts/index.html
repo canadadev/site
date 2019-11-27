@@ -149,9 +149,7 @@
                     <li class="mb-3">{{ .serviceItem }}</li>
                     {{ end }}
                   </ul>
-                  {{ if eq $index 1 }}
                     <a href="{{ .monthlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Select Plan</a>
-                  {{ end }}
                 </div>
               </li>
             </ul>
