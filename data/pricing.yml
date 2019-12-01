@@ -13,7 +13,7 @@ pricingTable:
     monthlyDescription : "Open to all"
     monthlyButtonURL: "https://canadadev.memberful.com/register"
     monthlyService:
-      - serviceItem : "Meetups"
+      - serviceItem : "Attend Meetups"
       - serviceItem : "Be a coach (if approved)"
       - serviceItem : "Discounts"
       - serviceItem : "Employment Opportunties"
