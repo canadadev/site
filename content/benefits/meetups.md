@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Local meetups with a monthly event are great for networking and learning
+Vancouver meetup with local speakers and networking for CanadaDev members.
 
 ### Benefits of Meetups
 
@@ -23,7 +23,7 @@ Local meetups with a monthly event are great for networking and learning
 
 ### Community Networks
 
-* Join [CanadaDev's Meetup Network](/meetup) - 14 chapters across the nation!
+* Join [CanadaDev's Meetup Network](/meetup)
 
 * Join [CanadaDev's Linkedin Group](/linkedin)
 

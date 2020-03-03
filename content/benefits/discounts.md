@@ -8,7 +8,7 @@ image: "images/service/service-4.webp"
 imageAlt: "images/service/service-4.jpg"
 icon: "fa-usd"
 type: "benefits"
-row: "2"
+row: "1"
 ---
 
 Provides quality discounts from specialized providers for CanadaDev members.

@@ -65,18 +65,18 @@ paginate = 6
 [menu]
   
   [[menu.main]]
-  name = "Chapters"
-  URL = "/meetup"
+  name = "Meetups"
+  URL = "/benefits/meetups"
   weight = 1
 
   [[menu.main]]
-  name = "Coaches"
-  URL = "/coaches"
+  name = "Banking"
+  URL = "/benefits/banking"
   weight = 2
 
   [[menu.main]]
-  name = "Jobs"
-  URL = "/jobs"
+  name = "Discounts"
+  URL = "/benefits/discounts"
   weight = 3
 
   [[menu.main]]
@@ -85,54 +85,29 @@ paginate = 6
   weight = 4
 
   [[menu.main]]
-  name = "More"
+  name = "Association"
+  URL = "/about"
   weight = 5
-  hasChildren = true
 
-    [[menu.main]]
-    parent = "More"
-    name = "Association"
-    URL = "/about"
-    weight = 1
-
-    [[menu.main]]
-    parent = "More"
-    name = "Become a Chapter Leader"
-    URL = "/leaders"
-    weight = 3
-
-    [[menu.main]]
-    parent = "More"
-    name = "Become a Speaker"
-    URL = "/speakers"
-    weight = 4
-
-    [[menu.main]]
-    parent = "More"
-    name = "Become a Coach"
-    URL = "/coach"
-    weight = 5
-
-    [[menu.main]]
-    parent = "More"
-    name = "Manage Membership"
-    URL = "https://canadadev.memberful.com/account"
-    weight = 6
+  [[menu.main]]
+  name = "Become a Speaker"
+  URL = "/speakers"
+  weight = 6
 
   [[menu.footer]]
   name = "Terms of Service"
   URL = "/terms"
-  weight = 6
+  weight = 7
   
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "/privacy"
-  weight = 7
+  weight = 8
 
   [[menu.footer]]
   name = "Code of Conduct"
   URL = "/conduct"
-  weight = 8
+  weight = 9
 
 [params]
 logo = "images/canadadev.png"
@@ -180,7 +155,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   [params.navBtn]
   enable = false
   btnText = "Join Now"
-  URL = "https://canadadev.memberful.com/checkout?plan=42786"
+  URL = ""
 
   # call to action
   [params.cta]
@@ -189,7 +164,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Become a Sponsor"
-  URL = "https://canadadev.memberful.com/checkout?plan=42787"
+  URL = ""
 
   # Footer
   [params.footer]

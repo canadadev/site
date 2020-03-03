@@ -11,9 +11,9 @@ pricingTable:
   - monthlyPack : "Member"
     monthlyValue : "Free"
     monthlyDescription : "Open to all"
-    monthlyButtonURL: "https://canadadev.memberful.com/register"
+    monthlyButtonURL: "/join"
     monthlyService:
       - serviceItem : "Attend Meetups"
-      - serviceItem : "Be a coach (if approved)"
-      - serviceItem : "Discounts"
-      - serviceItem : "Employment Opportunties"
+      - serviceItem : "Coast Capital Banking Packages"
+      - serviceItem : "Supplier Discounts"
+

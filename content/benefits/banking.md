@@ -8,33 +8,38 @@ image: "images/service/service-5.webp"
 imageAlt: "images/service/service-5.jpg"
 icon: "fa-bank"
 type: "benefits"
-row: "2"
+row: "1"
 ---
 
-Coming soon... Coast Capital custom banking packages for CanadaDev.
+Coast Capital custom banking packages for CanadaDev members. &nbsp; &nbsp; &nbsp;
 
-### Coast Capital - coming soon
-Coast Capital Savings is Canada’s largest credit union by membership, with over 572,000 members and we’re growing. Now that we’re a federal credit union, we have big plans to extend into new markets. Let’s go over some of the details that explain why over half a million people trust our service today.
+![Coast Capital](/images/coast.png)
 
-#### You get a say
-As a credit union, we’re owned by our members. That means we’re accountable to you, and you get a say in how we do things around here. Every member owns the same amount of shares – no more, no less. Members vote on our Board of Directors, who are here to help make sure your voice is heard. 
+## COAST CAPITAL 
 
-#### You’re a part of something bigger
-We’ve made a promise to build a richer future for youth in our communities. Each year, we give 7% of our pre-tax earnings back to the communities where our members live, with a focus on helping youth. In 2017, our members helped us give $5.6 million to youth-focused initiatives. Coast Capital also recently became a Certified B Corporation®, joining a growing movement of change-makers using business as a force for good. B Corps™ are certified by the nonprofit B Lab® to meet high standards of social and environmental performance, accountability, and transparency.
+Coast Capital is Canada’s largest credit union by membership, with over 580,000 members and we’re growing. Now that we’re a federal credit union, we have big plans to extend into new markets. Let’s go over some of the details that explain why over half a million people trust our service today.
 
-#### You save money
-Since we’re accountable to our members, we’re dedicated to doing what’s really best for them. And you know what’s not great? Paying service fees. We were the first full-service financial institution in Canada to introduce a free chequing account. Our Free Chequing, Free Debit and More Account® can save you some serious cash that you can use for things that are more important to you – like saving for retirement or that family trip to Hawaii. We’re also able to offer other perks like better interest rates.
-You’re a part of a relationship
-As a member of CanadaDev, you will have a direct contact at Coast Capital Savings and have the following preferential offering:
+### YOU GET A SAY
+As a credit union, we’re owned by our members. That means we’re accountable to you, and you get a say in how we do things. Every member owns the same amount of shares – no more, no less. Members vote on our Board of Directors, who help make sure your voice is heard.
 
-#### Personal Package:
-* First free cheque order with the Free Chequing Debit and More Account
-* Lowest offered Interest rate for $20,000 line of credit (subject to qualification)
-* Staff Pricing for SEI mutual funds (O Class)
-* Preferred interest rate for mortgages (subject to qualification)
+### YOU’RE A PART OF SOMETHING BIGGER
+We’ve made a promise to build a richer future for youth in our communities. Each year, we give 7% of our pre-tax earnings back to the communities where our members live, with a focus on helping youth. Coast Capital also recently became a Certified B Corporation®, joining a growing movement of change-makers using business as a force for good. B Corps™ are certified by the nonprofit B Lab® to meet high standards of social and environmental performance, accountability, and transparency.
 
-#### Business Package:
-* Waive 1 year fee on business account and first cheque order is free
-* Lowest offered Interest Rate for $20,000 line of credit (subject to qualification)
-* Canadian Small Business Finance Program (new program launching next month)
+### YOU SAVE MONEY
+Since we’re accountable to our members, we’re dedicated to doing what’s really best for them. And you know what’s not great? Paying service fees. We were the first full-service financial institution in Canada to introduce a free chequing account. Our Free Chequing, Free Debit and More Account® can save you some serious cash that you can use for things that are more important to you – like saving for retirement or that family trip to Hawaii. We’re also able to offer other perks like better interest rates. 
+As a member of CanadaDev, you will have a direct contact at Coast Capital and have the following preferential offering:
 
+### PERSONAL PACKAGE:
+Enjoy free banking with our Free Chequing, Debit and More Account® as well as a complimentary first cheque order
+Preferred rates for mortgages and lines of credit up to $20,000*
+Preferred pricing for SEI mutual funds (O Class)
+
+To take advantage of this offer, email Coast Capital here. (hyperlink to inbox – pre-code to link to personal package questions). 
+
+### BUSINESS PACKAGE:
+Enjoy one year of waived monthly fees on a business account
+Preferred rates and no setup fees on Business Loans and Lines of Credit*
+
+To take advantage of this offer, email Coast Capital here. (hyperlink to inbox – precode to link to personal package questions). 
+
+[Terms and Conditions](/pdfs/coast_disclaimer.pdf)
