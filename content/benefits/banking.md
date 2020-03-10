@@ -34,12 +34,12 @@ Enjoy free banking with our Free Chequing, Debit and More Account® as well as a
 Preferred rates for mortgages and lines of credit up to $20,000*
 Preferred pricing for SEI mutual funds (O Class)
 
-To take advantage of this offer, email Coast Capital here. (hyperlink to inbox – pre-code to link to personal package questions). 
+To take advantage of this offer, please fill out the [form](/personal-banking).
 
 ### BUSINESS PACKAGE:
 Enjoy one year of waived monthly fees on a business account
 Preferred rates and no setup fees on Business Loans and Lines of Credit*
 
-To take advantage of this offer, email Coast Capital here. (hyperlink to inbox – precode to link to personal package questions). 
+To take advantage of this offer, please fill out the [form](/business-banking).
 
 [Terms and Conditions](/pdfs/coast_disclaimer.pdf)

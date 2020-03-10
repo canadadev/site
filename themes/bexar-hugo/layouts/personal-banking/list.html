@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+  {{ "<!-- privacy -->" | safeHTML }}
+  <section class="section">
+    <div class="container">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-md-12">
+          <h4 class="mb-4">CanadaDev - Coast Capital Personal Banking Package Application</h4>
+          <form name="personal-banking" method="POST" data-netlify="true">
+            <div class="form-group">
+              <p>
+                <label>First Name: <input type="text" class="form-control" id="firstname" required /></label>
+              </p>
+              <p>
+                <label>Last Name: <input type="text" class="form-control" id="lastname" required /></label>
+              </p>
+              <p>
+                <label>Your Email: <input type="email" class="form-control" name="email" required /></label>
+              </p>
+              <p>
+                <label>Your Phone Number: <input type="tel" class="form-control" name="telephone" required /></label>
+              </p>
+              <p>
+                <input type="text" class="form-control" value="Personal Package" name="package" hidden />
+              </p>
+              <p>
+                <input type="text" class="form-control" value="CanadaDev" name="partnername" hidden />
+              </p>
+            </div>
+            <p>
+              <button class="btn btn-primary" type="submit">Submit</button>
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ "<!-- /privacy -->" | safeHTML }}
+
+{{ end }}
