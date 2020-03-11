@@ -30,15 +30,18 @@ Since we’re accountable to our members, we’re dedicated to doing what’s re
 As a member of CanadaDev, you will have a direct contact at Coast Capital and have the following preferential offering:
 
 ### PERSONAL PACKAGE:
-Enjoy free banking with our Free Chequing, Debit and More Account® as well as a complimentary first cheque order
-Preferred rates for mortgages and lines of credit up to $20,000*
-Preferred pricing for SEI mutual funds (O Class)
+* Enjoy free banking with our Free Chequing, Debit and More Account® as well as a complimentary first cheque order
+
+* Preferred rates for mortgages and lines of credit up to $20,000*
+
+* Preferred pricing for SEI mutual funds (O Class)
 
 To take advantage of this offer, please fill out the [form](/personal-banking).
 
 ### BUSINESS PACKAGE:
-Enjoy one year of waived monthly fees on a business account
-Preferred rates and no setup fees on Business Loans and Lines of Credit*
+* Enjoy one year of waived monthly fees on a business account
+
+* Preferred rates and no setup fees on Business Loans and Lines of Credit*
 
 To take advantage of this offer, please fill out the [form](/business-banking).
 
