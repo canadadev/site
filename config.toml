@@ -143,9 +143,6 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
     [[params.topHeader.icon]]
       icon = "fa-linkedin"
       URL = "/linkedin"
-    [[params.topHeader.icon]]
-      icon = "fa-vimeo"
-      URL = "/vimeo"
 
   # search
   [params.search]
@@ -182,23 +179,6 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
       [[params.footer.followUs.socialIcon]]
       icon = "fa-linkedin"
       URL = "/linkedin"
-
-      [[params.footer.followUs.socialIcon]]
-      icon = "fa-vimeo"
-      URL = "/vimeo"
-
-    # Contact
-    [params.footer.contact]
-    title = "Contact Us"
-
-      [[params.footer.contact.contactList]]
-      listItem = "1383 W 8th Ave, Vancouver, BC V6H 3V9"
-
-      [[params.footer.contact.contactList]]
-      listItem = "1-647-560-2338 (CDEV)"
-
-      [[params.footer.contact.contactList]]
-      listItem = "hello@canadadev.com"
 
   # newsletter
   [params.newsletter]

@@ -34,12 +34,4 @@
   {{ "<!-- /about us -->" | safeHTML }}
   {{ end }}
 
-  {{ if .Site.Data.about.service.enable }}
-  {{ partial "service.html" . }}
-  {{ end }}
-
-  {{ if .Site.Data.homepage.team.enable }}
-  {{ partial "team.html" . }}
-  {{ end }}
-
 {{ end }}

@@ -26,6 +26,3 @@ Vancouver meetup with local speakers and networking for CanadaDev members.
 * Join [CanadaDev's Meetup Network](/meetup)
 
 * Join [CanadaDev's Linkedin Group](/linkedin)
-
-* Watch [CanadaDev's Recorded Meetups](/vimeo)
-
