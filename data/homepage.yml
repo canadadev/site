@@ -2,8 +2,8 @@
 about:
   enable : true
   titleSM : ""
-  title : "Your association as a software engineer"
-  content : "CanadaDev is the professional association of software engineers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, employment opportunities, and discounts. We take our members to the next level!"
+  title : "Your association as a software developer"
+  content : "CanadaDev is an association of software developers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, employment opportunities, and discounts. We take our members to the next level!"
   bgDots : "images/backgrounds/about-us-bg.png"
   image : "images/about/about-us.webp"
   imageAlt : "images/about/about-us.png"

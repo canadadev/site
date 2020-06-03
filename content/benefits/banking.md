@@ -11,7 +11,7 @@ type: "benefits"
 row: "1"
 ---
 
-Coast Capital custom banking packages for CanadaDev members. &nbsp; &nbsp; &nbsp;
+Provides custom banking packages from Coast Capital for CanadaDev members.
 
 ![Coast Capital](/images/coast.png)
 

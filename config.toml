@@ -114,7 +114,7 @@ logo = "images/canadadev.png"
 logoAlt = "images/canadadev-alt.png"
 home = "Home"
 # Meta data
-description = "CanadaDev is the professional association of software engineers in Canada"
+description = "CanadaDev is the professional association of software developers in Canada"
 author = "Bevan Hunt"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -160,7 +160,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # call to action
   [params.cta]
   enable = false
-  title = "Are you a company that wants to meet software engineers?"
+  title = "Are you a company that wants to meet software developers?"
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
   btnText = "Become a Sponsor"
@@ -169,7 +169,7 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # Footer
   [params.footer]
   enable = false
-  content = "CanadaDev is the professional association of software engineers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, employment opportunities, and discounts. We take our members to the next level!"
+  content = "CanadaDev is an association of software developers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, employment opportunities, and discounts. We take our members to the next level!"
 
     # follow us on social site
     [params.footer.followUs]
