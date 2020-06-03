@@ -15,5 +15,5 @@ pricingTable:
     monthlyService:
       - serviceItem : "Attend Meetups"
       - serviceItem : "Coast Capital Banking Packages"
-      - serviceItem : "Supplier Discounts"
+      - serviceItem : "Legal Discount"
 
