@@ -119,6 +119,8 @@
   {{ "<!-- /feature -->" | safeHTML }}
   {{ end }}
 
+  {{ partial "features.html" . }}
+
   {{ if .Site.Data.homepage.pricing.enable }}
   {{ "<!-- pricing -->" | safeHTML }}
   <section class="section">
@@ -133,13 +135,13 @@
         </div>
       </div>
       <div class="pricing-container">
-        <ul class="p-0 pricing-list bounce-invert">
+        <ul class="p-0 bounce-invert" style="width: 50%; margin: 0 auto;">
           {{ range $index, $element := .Site.Data.pricing.pricingTable }}
           <li>
             <ul class="p-0 pricing-wrapper">
               <li data-type="monthly" class="is-visible">
                 {{ "<!-- pricing table -->" | safeHTML }}
-                <div class="py-5 px-4 text-center border-left border-right border-color pricing-table {{if eq $index 1}}active{{end}}">
+                <div class="py-5 px-4 text-center border-left border-right border-color pricing-table {{if eq $index 0}}active{{end}}">
                   <h4 class="section-title-sm">{{ .monthlyPack }}</h4>
                   <h2>{{ .monthlyValue }}</h2>
                   <h5 class="mb-4">{{ .monthlyDescription }}</h5>
@@ -149,7 +151,9 @@
                     <li class="mb-3">{{ .serviceItem }}</li>
                     {{ end }}
                   </ul>
-                    <a href="{{ .monthlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Select Plan</a>
+                    {{ if eq $index 0 }}
+                      <a href="{{ .monthlyButtonURL }}" class="btn hover-ripple {{if eq $index 1}} btn-light ripple-white {{ else }} btn-light btn-light-alt {{end}}">Contact Us</a>
+                    {{ end }}
                 </div>
               </li>
             </ul>
@@ -161,6 +165,8 @@
   </section>
   {{ "<!-- /pricing -->" | safeHTML }}
   {{ end }}
+
+  {{ partial "nations.html" . }}
 
   {{ if .Site.Data.homepage.benefits.enable }}
   {{ partial "benefits.html" . }}

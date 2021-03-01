@@ -1,6 +1,6 @@
-baseURL = "https://canadadev.com"
+baseURL = "https://dispatcher.dev"
 languageCode = "en-ca"
-title = "CanadaDev"
+title = "Dispatcher - Unifies the Supply Chain"
 theme = "bexar-hugo"
 summaryLength = "10"
 paginate = 6
@@ -65,34 +65,9 @@ paginate = 6
 [menu]
   
   [[menu.main]]
-  name = "Meetups"
-  URL = "/benefits/meetups"
+  name = "Supply Chain Solution"
+  URL = "/products/supplychain"
   weight = 1
-
-  [[menu.main]]
-  name = "Banking"
-  URL = "/benefits/banking"
-  weight = 2
-
-  [[menu.main]]
-  name = "Discounts"
-  URL = "/benefits/discounts"
-  weight = 3
-
-  [[menu.main]]
-  name = "Code of Ethics"
-  URL = "/ethics"
-  weight = 4
-
-  [[menu.main]]
-  name = "Association"
-  URL = "/about"
-  weight = 5
-
-  [[menu.main]]
-  name = "Become a Speaker"
-  URL = "/speakers"
-  weight = 6
 
   [[menu.footer]]
   name = "Terms of Service"
@@ -104,29 +79,10 @@ paginate = 6
   URL = "/privacy"
   weight = 8
 
-  [[menu.footer]]
-  name = "Code of Conduct"
-  URL = "/conduct"
-  weight = 9
-
 [params]
-logo = "images/canadadev.png"
-logoAlt = "images/canadadev-alt.png"
+logo = "images/apibillme.svg"
+logoAlt = "images/apibillme.svg"
 home = "Home"
-# Meta data
-description = "CanadaDev is the professional association of software developers in Canada"
-author = "Bevan Hunt"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
-# Google Analitycs
-googleAnalitycsID = "UA-148418498-1"
-# mailchimp subsciption
-mailchimpFormAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e" # replace this url with yours
-mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code with yours
-
   # Preloader
   [params.preloader]
   enable = true
@@ -138,11 +94,8 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   phone = ""
     # social icon
     [[params.topHeader.icon]]
-      icon = "fa-meetup"
-      URL = "/meetup"
-    [[params.topHeader.icon]]
-      icon = "fa-linkedin"
-      URL = "/linkedin"
+      icon = "fab fa-linkedin-in"
+      URL = "https://www.linkedin.com/company/18775532/"
 
   # search
   [params.search]
@@ -157,28 +110,27 @@ mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e" # replace this code
   # call to action
   [params.cta]
   enable = false
-  title = "Are you a company that wants to meet software developers?"
+  title = "Want an invite to the private beta?"
   bgImage = "images/backgrounds/cta-lg.webp"
   bgImageAlt = "images/backgrounds/cta-lg.jpg"
-  btnText = "Become a Sponsor"
+  btnText = "Signup Now"
   URL = ""
+
+  [params.features]
+  enable = true
 
   # Footer
   [params.footer]
-  enable = false
-  content = "CanadaDev is an association of software developers in Canada. CanadaDev provides meetups, networking, mentorship, advocacy, lobbying, leading edge content, employment opportunities, and discounts. We take our members to the next level!"
+  enable = true
+  content = "Dispatcher provides a marketplace that unifies the supply chain. It is the best supply chain management platform."
 
     # follow us on social site
     [params.footer.followUs]
     title = "Follow Us On"
 
       [[params.footer.followUs.socialIcon]]
-      icon = "fa-meetup"
-      URL = "/meetup"
-
-      [[params.footer.followUs.socialIcon]]
-      icon = "fa-linkedin"
-      URL = "/linkedin"
+      icon = "fab fa-linkedin-in"
+      URL = "https://www.linkedin.com/company/18775532/"
 
   # newsletter
   [params.newsletter]

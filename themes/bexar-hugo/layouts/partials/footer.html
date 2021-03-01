@@ -8,7 +8,7 @@
         <!-- footer content -->
         <div class="col-lg-5 mb-5 mb-lg-0">
           <!-- logo -->
-          <a class="mb-4 d-inline-block" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logoAlt | absURL }}" alt="Bexar"></a>
+          <a class="mb-4 d-inline-block" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logoAlt | absURL }}" alt="ApiBillMe" style="height: 70px; margin-bottom: 40px;"></a>
           <p class="text-light mb-5">{{ with .Site.Params.footer.content }}{{ . | safeHTML }}{{ end }}</p>
           <h4 class="text-white mb-4">{{ with .Site.Params.footer.followUs.title }}{{ . }}{{ end }}</h4>
           <!-- social links -->
@@ -131,6 +131,12 @@
   ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
   window.MemberfulOptions = {site: "https://canadadev.memberful.com"};

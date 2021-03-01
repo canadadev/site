@@ -1,19 +1,13 @@
 enable : true
 titleSM : ""
-title : "CanadaDev Membership"
+title : "Pricing"
 pricingTable: 
-  - monthlyPack : "Corporate Sponsorship"
-    monthlyValue : "Custom"
-    monthlyDescription : "Contact Us Today!"
-    monthlyButtonURL: "/sponsorship"
-    monthlyService:
-
-  - monthlyPack : "Member"
-    monthlyValue : "Free"
-    monthlyDescription : "Open to all"
+  - monthlyPack : ""
+    monthlyValue : "Supply Chain"
+    monthlyDescription : "Brands, Distributors, Wholesalers, and Retailers"
     monthlyButtonURL: "/join"
     monthlyService:
-      - serviceItem : "Attend Meetups"
-      - serviceItem : "Coast Capital Banking Packages"
-      - serviceItem : "Legal Discount"
+      - serviceItem : "$49.95 USD monthly fee"
+      - serviceItem : "9.95% transaction fee"
+      - serviceItem : "Stripe transaction fee"
 
